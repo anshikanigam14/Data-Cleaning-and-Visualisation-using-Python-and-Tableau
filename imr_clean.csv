@@ -1,0 +1,2815 @@
+region,country_code,type,parent_code,years,imr
+Burundi,108,Country/Area,910,1950-1955,   166
+Comoros,174,Country/Area,910,1950-1955,   192
+Djibouti,262,Country/Area,910,1950-1955,   154
+Eritrea,232,Country/Area,910,1950-1955,   199
+Ethiopia,231,Country/Area,910,1950-1955,   199
+Kenya,404,Country/Area,910,1950-1955,   142
+Madagascar,450,Country/Area,910,1950-1955,   183
+Malawi,454,Country/Area,910,1950-1955,   178
+Mauritius,480,Country/Area,910,1950-1955,   103
+Mayotte,175,Country/Area,910,1950-1955,   143
+Mozambique,508,Country/Area,910,1950-1955,   164
+Réunion,638,Country/Area,910,1950-1955,   142
+Rwanda,646,Country/Area,910,1950-1955,   150
+Seychelles,690,Country/Area,910,1950-1955,   81
+Somalia,706,Country/Area,910,1950-1955,   200
+South Sudan,728,Country/Area,910,1950-1955,   248
+Uganda,800,Country/Area,910,1950-1955,   150
+United Republic of Tanzania,834,Country/Area,910,1950-1955,   148
+Zambia,894,Country/Area,910,1950-1955,   138
+Zimbabwe,716,Country/Area,910,1950-1955,   114
+Angola,24,Country/Area,911,1950-1955,   193
+Cameroon,120,Country/Area,911,1950-1955,   155
+Central African Republic,140,Country/Area,911,1950-1955,   170
+Chad,148,Country/Area,911,1950-1955,   186
+Congo,178,Country/Area,911,1950-1955,   134
+Democratic Republic of the Congo,180,Country/Area,911,1950-1955,   166
+Equatorial Guinea,226,Country/Area,911,1950-1955,   167
+Gabon,266,Country/Area,911,1950-1955,   160
+Sao Tome and Principe,678,Country/Area,911,1950-1955,   138
+Botswana,72,Country/Area,913,1950-1955,   128
+Eswatini,748,Country/Area,913,1950-1955,   145
+Lesotho,426,Country/Area,913,1950-1955,   128
+Namibia,516,Country/Area,913,1950-1955,   144
+South Africa,710,Country/Area,913,1950-1955,   134
+Benin,204,Country/Area,914,1950-1955,   208
+Burkina Faso,854,Country/Area,914,1950-1955,   228
+Cabo Verde,132,Country/Area,914,1950-1955,   131
+Côte d'Ivoire,384,Country/Area,914,1950-1955,   189
+Gambia,270,Country/Area,914,1950-1955,   156
+Ghana,288,Country/Area,914,1950-1955,   147
+Guinea,324,Country/Area,914,1950-1955,   207
+Guinea-Bissau,624,Country/Area,914,1950-1955,   163
+Liberia,430,Country/Area,914,1950-1955,   165
+Mali,466,Country/Area,914,1950-1955,   242
+Mauritania,478,Country/Area,914,1950-1955,   148
+Niger,562,Country/Area,914,1950-1955,   161
+Nigeria,566,Country/Area,914,1950-1955,   200
+Senegal,686,Country/Area,914,1950-1955,   128
+Sierra Leone,694,Country/Area,914,1950-1955,   237
+Togo,768,Country/Area,914,1950-1955,   186
+Algeria,12,Country/Area,912,1950-1955,   163
+Egypt,818,Country/Area,912,1950-1955,   249
+Libya,434,Country/Area,912,1950-1955,   254
+Morocco,504,Country/Area,912,1950-1955,   151
+Sudan,729,Country/Area,912,1950-1955,   135
+Tunisia,788,Country/Area,912,1950-1955,   232
+Western Sahara,732,Country/Area,912,1950-1955,   217
+Armenia,51,Country/Area,922,1950-1955,   83
+Azerbaijan,31,Country/Area,922,1950-1955,   120
+Bahrain,48,Country/Area,922,1950-1955,   172
+Cyprus,196,Country/Area,922,1950-1955,   65
+Georgia,268,Country/Area,922,1950-1955,   80
+Iraq,368,Country/Area,922,1950-1955,   225
+Israel,376,Country/Area,922,1950-1955,   39
+Jordan,400,Country/Area,922,1950-1955,   147
+Kuwait,414,Country/Area,922,1950-1955,   124
+Lebanon,422,Country/Area,922,1950-1955,   69
+Oman,512,Country/Area,922,1950-1955,   211
+Qatar,634,Country/Area,922,1950-1955,   106
+Saudi Arabia,682,Country/Area,922,1950-1955,   202
+State of Palestine,275,Country/Area,922,1950-1955,   141
+Syrian Arab Republic,760,Country/Area,922,1950-1955,   142
+Turkey,792,Country/Area,922,1950-1955,   217
+United Arab Emirates,784,Country/Area,922,1950-1955,   181
+Yemen,887,Country/Area,922,1950-1955,   288
+Kazakhstan,398,Country/Area,5500,1950-1955,   110
+Kyrgyzstan,417,Country/Area,5500,1950-1955,   139
+Tajikistan,762,Country/Area,5500,1950-1955,   141
+Turkmenistan,795,Country/Area,5500,1950-1955,   150
+Uzbekistan,860,Country/Area,5500,1950-1955,   124
+Afghanistan,4,Country/Area,5501,1950-1955,   276
+Bangladesh,50,Country/Area,5501,1950-1955,   211
+Bhutan,64,Country/Area,5501,1950-1955,   246
+India,356,Country/Area,5501,1950-1955,   181
+Iran (Islamic Republic of),364,Country/Area,5501,1950-1955,   220
+Maldives,462,Country/Area,5501,1950-1955,   268
+Nepal,524,Country/Area,5501,1950-1955,   224
+Pakistan,586,Country/Area,5501,1950-1955,   250
+Sri Lanka,144,Country/Area,5501,1950-1955,   89
+China,156,Country/Area,906,1950-1955,   129
+"China, Hong Kong SAR",344,Country/Area,906,1950-1955,   62
+"China, Macao SAR",446,Country/Area,906,1950-1955,   66
+"China, Taiwan Province of China",158,Country/Area,906,1950-1955,   79
+Dem. People's Republic of Korea,408,Country/Area,906,1950-1955,   121
+Japan,392,Country/Area,906,1950-1955,   48
+Mongolia,496,Country/Area,906,1950-1955,   183
+Republic of Korea,410,Country/Area,906,1950-1955,   159
+Brunei Darussalam,96,Country/Area,920,1950-1955,   108
+Cambodia,116,Country/Area,920,1950-1955,   142
+Indonesia,360,Country/Area,920,1950-1955,   184
+Lao People's Democratic Republic,418,Country/Area,920,1950-1955,   176
+Malaysia,458,Country/Area,920,1950-1955,   102
+Myanmar,104,Country/Area,920,1950-1955,   213
+Philippines,608,Country/Area,920,1950-1955,   85
+Singapore,702,Country/Area,920,1950-1955,   61
+Thailand,764,Country/Area,920,1950-1955,   127
+Timor-Leste,626,Country/Area,920,1950-1955,   264
+Viet Nam,704,Country/Area,920,1950-1955,   103
+Antigua and Barbuda,28,Country/Area,915,1950-1955,   78
+Aruba,533,Country/Area,915,1950-1955,   69
+Bahamas,44,Country/Area,915,1950-1955,   37
+Barbados,52,Country/Area,915,1950-1955,   122
+Cuba,192,Country/Area,915,1950-1955,   81
+Curaçao,531,Country/Area,915,1950-1955,   66
+Dominican Republic,214,Country/Area,915,1950-1955,   153
+Grenada,308,Country/Area,915,1950-1955,   77
+Guadeloupe,312,Country/Area,915,1950-1955,   80
+Haiti,332,Country/Area,915,1950-1955,   221
+Jamaica,388,Country/Area,915,1950-1955,   83
+Martinique,474,Country/Area,915,1950-1955,   81
+Puerto Rico,630,Country/Area,915,1950-1955,   63
+Saint Lucia,662,Country/Area,915,1950-1955,   118
+Saint Vincent and the Grenadines,670,Country/Area,915,1950-1955,   116
+Trinidad and Tobago,780,Country/Area,915,1950-1955,   70
+United States Virgin Islands,850,Country/Area,915,1950-1955,   58
+Belize,84,Country/Area,916,1950-1955,   100
+Costa Rica,188,Country/Area,916,1950-1955,   103
+El Salvador,222,Country/Area,916,1950-1955,   143
+Guatemala,320,Country/Area,916,1950-1955,   168
+Honduras,340,Country/Area,916,1950-1955,   169
+Mexico,484,Country/Area,916,1950-1955,   121
+Nicaragua,558,Country/Area,916,1950-1955,   172
+Panama,591,Country/Area,916,1950-1955,   86
+Argentina,32,Country/Area,931,1950-1955,   64
+Bolivia (Plurinational State of),68,Country/Area,931,1950-1955,   178
+Brazil,76,Country/Area,931,1950-1955,   136
+Chile,152,Country/Area,931,1950-1955,   123
+Colombia,170,Country/Area,931,1950-1955,   117
+Ecuador,218,Country/Area,931,1950-1955,   138
+French Guiana,254,Country/Area,931,1950-1955,   103
+Guyana,328,Country/Area,931,1950-1955,   72
+Paraguay,600,Country/Area,931,1950-1955,   73
+Peru,604,Country/Area,931,1950-1955,   159
+Suriname,740,Country/Area,931,1950-1955,   77
+Uruguay,858,Country/Area,931,1950-1955,   57
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1950-1955,   101
+Australia,36,Country/Area,927,1950-1955,   24
+New Zealand,554,Country/Area,927,1950-1955,   27
+Fiji,242,Country/Area,928,1950-1955,   87
+New Caledonia,540,Country/Area,928,1950-1955,   117
+Papua New Guinea,598,Country/Area,928,1950-1955,   158
+Solomon Islands,90,Country/Area,928,1950-1955,   171
+Vanuatu,548,Country/Area,928,1950-1955,   122
+Guam,316,Country/Area,954,1950-1955,   82
+Kiribati,296,Country/Area,954,1950-1955,   147
+Micronesia (Fed. States of),583,Country/Area,954,1950-1955,   95
+French Polynesia,258,Country/Area,957,1950-1955,   130
+Samoa,882,Country/Area,957,1950-1955,   94
+Tonga,776,Country/Area,957,1950-1955,   80
+Belarus,112,Country/Area,923,1950-1955,   95
+Bulgaria,100,Country/Area,923,1950-1955,   90
+Czechia,203,Country/Area,923,1950-1955,   42
+Hungary,348,Country/Area,923,1950-1955,   72
+Poland,616,Country/Area,923,1950-1955,   79
+Republic of Moldova,498,Country/Area,923,1950-1955,   81
+Romania,642,Country/Area,923,1950-1955,   91
+Russian Federation,643,Country/Area,923,1950-1955,   100
+Slovakia,703,Country/Area,923,1950-1955,   74
+Ukraine,804,Country/Area,923,1950-1955,   79
+Channel Islands,830,Country/Area,924,1950-1955,   32
+Denmark,208,Country/Area,924,1950-1955,   28
+Estonia,233,Country/Area,924,1950-1955,   85
+Finland,246,Country/Area,924,1950-1955,   33
+Iceland,352,Country/Area,924,1950-1955,   22
+Ireland,372,Country/Area,924,1950-1955,   41
+Latvia,428,Country/Area,924,1950-1955,   77
+Lithuania,440,Country/Area,924,1950-1955,   107
+Norway,578,Country/Area,924,1950-1955,   22
+Sweden,752,Country/Area,924,1950-1955,   19
+United Kingdom,826,Country/Area,924,1950-1955,   28
+Albania,8,Country/Area,925,1950-1955,   145
+Bosnia and Herzegovina,70,Country/Area,925,1950-1955,   189
+Croatia,191,Country/Area,925,1950-1955,   96
+Greece,300,Country/Area,925,1950-1955,   46
+Italy,380,Country/Area,925,1950-1955,   59
+Malta,470,Country/Area,925,1950-1955,   68
+Montenegro,499,Country/Area,925,1950-1955,   120
+North Macedonia,807,Country/Area,925,1950-1955,   136
+Portugal,620,Country/Area,925,1950-1955,   92
+Serbia,688,Country/Area,925,1950-1955,   117
+Slovenia,705,Country/Area,925,1950-1955,   23
+Spain,724,Country/Area,925,1950-1955,   63
+Austria,40,Country/Area,926,1950-1955,   53
+Belgium,56,Country/Area,926,1950-1955,   45
+France,250,Country/Area,926,1950-1955,   44
+Germany,276,Country/Area,926,1950-1955,   46
+Luxembourg,442,Country/Area,926,1950-1955,   44
+Netherlands,528,Country/Area,926,1950-1955,   23
+Switzerland,756,Country/Area,926,1950-1955,   29
+Canada,124,Country/Area,918,1950-1955,   38
+United States of America,840,Country/Area,918,1950-1955,   30
+Burundi,108,Country/Area,910,1955-1960,   157
+Comoros,174,Country/Area,910,1955-1960,   180
+Djibouti,262,Country/Area,910,1955-1960,   143
+Eritrea,232,Country/Area,910,1955-1960,   181
+Ethiopia,231,Country/Area,910,1955-1960,   181
+Kenya,404,Country/Area,910,1955-1960,   134
+Madagascar,450,Country/Area,910,1955-1960,   169
+Malawi,454,Country/Area,910,1955-1960,   176
+Mauritius,480,Country/Area,910,1955-1960,   74
+Mayotte,175,Country/Area,910,1955-1960,   109
+Mozambique,508,Country/Area,910,1955-1960,   158
+Réunion,638,Country/Area,910,1955-1960,   109
+Rwanda,646,Country/Area,910,1955-1960,   145
+Seychelles,690,Country/Area,910,1955-1960,   76
+Somalia,706,Country/Area,910,1955-1960,   186
+South Sudan,728,Country/Area,910,1955-1960,   225
+Uganda,800,Country/Area,910,1955-1960,   141
+United Republic of Tanzania,834,Country/Area,910,1955-1960,   142
+Zambia,894,Country/Area,910,1955-1960,   129
+Zimbabwe,716,Country/Area,910,1955-1960,   103
+Angola,24,Country/Area,911,1955-1960,   188
+Cameroon,120,Country/Area,911,1955-1960,   149
+Central African Republic,140,Country/Area,911,1955-1960,   164
+Chad,148,Country/Area,911,1955-1960,   177
+Congo,178,Country/Area,911,1955-1960,   121
+Democratic Republic of the Congo,180,Country/Area,911,1955-1960,   157
+Equatorial Guinea,226,Country/Area,911,1955-1960,   163
+Gabon,266,Country/Area,911,1955-1960,   154
+Sao Tome and Principe,678,Country/Area,911,1955-1960,   126
+Botswana,72,Country/Area,913,1955-1960,   112
+Eswatini,748,Country/Area,913,1955-1960,   138
+Lesotho,426,Country/Area,913,1955-1960,   118
+Namibia,516,Country/Area,913,1955-1960,   131
+South Africa,710,Country/Area,913,1955-1960,   121
+Benin,204,Country/Area,914,1955-1960,   192
+Burkina Faso,854,Country/Area,914,1955-1960,   209
+Cabo Verde,132,Country/Area,914,1955-1960,   128
+Côte d'Ivoire,384,Country/Area,914,1955-1960,   178
+Gambia,270,Country/Area,914,1955-1960,   150
+Ghana,288,Country/Area,914,1955-1960,   133
+Guinea,324,Country/Area,914,1955-1960,   200
+Guinea-Bissau,624,Country/Area,914,1955-1960,   160
+Liberia,430,Country/Area,914,1955-1960,   165
+Mali,466,Country/Area,914,1955-1960,   224
+Mauritania,478,Country/Area,914,1955-1960,   137
+Niger,562,Country/Area,914,1955-1960,   161
+Nigeria,566,Country/Area,914,1955-1960,   186
+Senegal,686,Country/Area,914,1955-1960,   123
+Sierra Leone,694,Country/Area,914,1955-1960,   225
+Togo,768,Country/Area,914,1955-1960,   164
+Algeria,12,Country/Area,912,1955-1960,   153
+Egypt,818,Country/Area,912,1955-1960,   205
+Libya,434,Country/Area,912,1955-1960,   229
+Morocco,504,Country/Area,912,1955-1960,   143
+Sudan,729,Country/Area,912,1955-1960,   121
+Tunisia,788,Country/Area,912,1955-1960,   218
+Western Sahara,732,Country/Area,912,1955-1960,   201
+Armenia,51,Country/Area,922,1955-1960,   78
+Azerbaijan,31,Country/Area,922,1955-1960,   115
+Bahrain,48,Country/Area,922,1955-1960,   146
+Cyprus,196,Country/Area,922,1955-1960,   51
+Georgia,268,Country/Area,922,1955-1960,   73
+Iraq,368,Country/Area,922,1955-1960,   170
+Israel,376,Country/Area,922,1955-1960,   33
+Jordan,400,Country/Area,922,1955-1960,   120
+Kuwait,414,Country/Area,922,1955-1960,   102
+Lebanon,422,Country/Area,922,1955-1960,   60
+Oman,512,Country/Area,922,1955-1960,   180
+Qatar,634,Country/Area,922,1955-1960,   87
+Saudi Arabia,682,Country/Area,922,1955-1960,   180
+State of Palestine,275,Country/Area,922,1955-1960,   130
+Syrian Arab Republic,760,Country/Area,922,1955-1960,   123
+Turkey,792,Country/Area,922,1955-1960,   199
+United Arab Emirates,784,Country/Area,922,1955-1960,   149
+Yemen,887,Country/Area,922,1955-1960,   281
+Kazakhstan,398,Country/Area,5500,1955-1960,   102
+Kyrgyzstan,417,Country/Area,5500,1955-1960,   130
+Tajikistan,762,Country/Area,5500,1955-1960,   134
+Turkmenistan,795,Country/Area,5500,1955-1960,   140
+Uzbekistan,860,Country/Area,5500,1955-1960,   115
+Afghanistan,4,Country/Area,5501,1955-1960,   254
+Bangladesh,50,Country/Area,5501,1955-1960,   182
+Bhutan,64,Country/Area,5501,1955-1960,   225
+India,356,Country/Area,5501,1955-1960,   166
+Iran (Islamic Republic of),364,Country/Area,5501,1955-1960,   198
+Maldives,462,Country/Area,5501,1955-1960,   247
+Nepal,524,Country/Area,5501,1955-1960,   221
+Pakistan,586,Country/Area,5501,1955-1960,   204
+Sri Lanka,144,Country/Area,5501,1955-1960,   74
+China,156,Country/Area,906,1955-1960,   131
+"China, Hong Kong SAR",344,Country/Area,906,1955-1960,   46
+"China, Macao SAR",446,Country/Area,906,1955-1960,   56
+"China, Taiwan Province of China",158,Country/Area,906,1955-1960,   57
+Dem. People's Republic of Korea,408,Country/Area,906,1955-1960,   83
+Japan,392,Country/Area,906,1955-1960,   36
+Mongolia,496,Country/Area,906,1955-1960,   164
+Republic of Korea,410,Country/Area,906,1955-1960,   96
+Brunei Darussalam,96,Country/Area,920,1955-1960,   101
+Cambodia,116,Country/Area,920,1955-1960,   135
+Indonesia,360,Country/Area,920,1955-1960,   159
+Lao People's Democratic Republic,418,Country/Area,920,1955-1960,   167
+Malaysia,458,Country/Area,920,1955-1960,   80
+Myanmar,104,Country/Area,920,1955-1960,   174
+Philippines,608,Country/Area,920,1955-1960,   72
+Singapore,702,Country/Area,920,1955-1960,   43
+Thailand,764,Country/Area,920,1955-1960,   109
+Timor-Leste,626,Country/Area,920,1955-1960,   241
+Viet Nam,704,Country/Area,920,1955-1960,   81
+Antigua and Barbuda,28,Country/Area,915,1955-1960,   64
+Aruba,533,Country/Area,915,1955-1960,   52
+Bahamas,44,Country/Area,915,1955-1960,   32
+Barbados,52,Country/Area,915,1955-1960,   79
+Cuba,192,Country/Area,915,1955-1960,   70
+Curaçao,531,Country/Area,915,1955-1960,   50
+Dominican Republic,214,Country/Area,915,1955-1960,   139
+Grenada,308,Country/Area,915,1955-1960,   67
+Guadeloupe,312,Country/Area,915,1955-1960,   65
+Haiti,332,Country/Area,915,1955-1960,   195
+Jamaica,388,Country/Area,915,1955-1960,   67
+Martinique,474,Country/Area,915,1955-1960,   66
+Puerto Rico,630,Country/Area,915,1955-1960,   51
+Saint Lucia,662,Country/Area,915,1955-1960,   102
+Saint Vincent and the Grenadines,670,Country/Area,915,1955-1960,   103
+Trinidad and Tobago,780,Country/Area,915,1955-1960,   60
+United States Virgin Islands,850,Country/Area,915,1955-1960,   47
+Belize,84,Country/Area,916,1955-1960,   88
+Costa Rica,188,Country/Area,916,1955-1960,   93
+El Salvador,222,Country/Area,916,1955-1960,   135
+Guatemala,320,Country/Area,916,1955-1960,   155
+Honduras,340,Country/Area,916,1955-1960,   154
+Mexico,484,Country/Area,916,1955-1960,   101
+Nicaragua,558,Country/Area,916,1955-1960,   151
+Panama,591,Country/Area,916,1955-1960,   74
+Argentina,32,Country/Area,931,1955-1960,   59
+Bolivia (Plurinational State of),68,Country/Area,931,1955-1960,   170
+Brazil,76,Country/Area,931,1955-1960,   124
+Chile,152,Country/Area,931,1955-1960,   118
+Colombia,170,Country/Area,931,1955-1960,   100
+Ecuador,218,Country/Area,931,1955-1960,   128
+French Guiana,254,Country/Area,931,1955-1960,   89
+Guyana,328,Country/Area,931,1955-1960,   67
+Paraguay,600,Country/Area,931,1955-1960,   70
+Peru,604,Country/Area,931,1955-1960,   148
+Suriname,740,Country/Area,931,1955-1960,   67
+Uruguay,858,Country/Area,931,1955-1960,   53
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1955-1960,   84
+Australia,36,Country/Area,927,1955-1960,   21
+New Zealand,554,Country/Area,927,1955-1960,   24
+Fiji,242,Country/Area,928,1955-1960,   66
+New Caledonia,540,Country/Area,928,1955-1960,   96
+Papua New Guinea,598,Country/Area,928,1955-1960,   141
+Solomon Islands,90,Country/Area,928,1955-1960,   140
+Vanuatu,548,Country/Area,928,1955-1960,   111
+Guam,316,Country/Area,954,1955-1960,   71
+Kiribati,296,Country/Area,954,1955-1960,   134
+Micronesia (Fed. States of),583,Country/Area,954,1955-1960,   86
+French Polynesia,258,Country/Area,957,1955-1960,   100
+Samoa,882,Country/Area,957,1955-1960,   85
+Tonga,776,Country/Area,957,1955-1960,   69
+Belarus,112,Country/Area,923,1955-1960,   57
+Bulgaria,100,Country/Area,923,1955-1960,   62
+Czechia,203,Country/Area,923,1955-1960,   23
+Hungary,348,Country/Area,923,1955-1960,   55
+Poland,616,Country/Area,923,1955-1960,   59
+Republic of Moldova,498,Country/Area,923,1955-1960,   69
+Romania,642,Country/Area,923,1955-1960,   80
+Russian Federation,643,Country/Area,923,1955-1960,   59
+Slovakia,703,Country/Area,923,1955-1960,   38
+Ukraine,804,Country/Area,923,1955-1960,   46
+Channel Islands,830,Country/Area,924,1955-1960,   28
+Denmark,208,Country/Area,924,1955-1960,   23
+Estonia,233,Country/Area,924,1955-1960,   50
+Finland,246,Country/Area,924,1955-1960,   25
+Iceland,352,Country/Area,924,1955-1960,   18
+Ireland,372,Country/Area,924,1955-1960,   33
+Latvia,428,Country/Area,924,1955-1960,   45
+Lithuania,440,Country/Area,924,1955-1960,   64
+Norway,578,Country/Area,924,1955-1960,   19
+Sweden,752,Country/Area,924,1955-1960,   17
+United Kingdom,826,Country/Area,924,1955-1960,   24
+Albania,8,Country/Area,925,1955-1960,   125
+Bosnia and Herzegovina,70,Country/Area,925,1955-1960,   136
+Croatia,191,Country/Area,925,1955-1960,   71
+Greece,300,Country/Area,925,1955-1960,   41
+Italy,380,Country/Area,925,1955-1960,   48
+Malta,470,Country/Area,925,1955-1960,   40
+Montenegro,499,Country/Area,925,1955-1960,   104
+North Macedonia,807,Country/Area,925,1955-1960,   113
+Portugal,620,Country/Area,925,1955-1960,   88
+Serbia,688,Country/Area,925,1955-1960,   103
+Slovenia,705,Country/Area,925,1955-1960,   19
+Spain,724,Country/Area,925,1955-1960,   51
+Austria,40,Country/Area,926,1955-1960,   42
+Belgium,56,Country/Area,926,1955-1960,   35
+France,250,Country/Area,926,1955-1960,   33
+Germany,276,Country/Area,926,1955-1960,   39
+Luxembourg,442,Country/Area,926,1955-1960,   37
+Netherlands,528,Country/Area,926,1955-1960,   18
+Switzerland,756,Country/Area,926,1955-1960,   24
+Canada,124,Country/Area,918,1955-1960,   32
+United States of America,840,Country/Area,918,1955-1960,   27
+Burundi,108,Country/Area,910,1960-1965,   149
+Comoros,174,Country/Area,910,1960-1965,   166
+Djibouti,262,Country/Area,910,1960-1965,   131
+Eritrea,232,Country/Area,910,1960-1965,   160
+Ethiopia,231,Country/Area,910,1960-1965,   160
+Kenya,404,Country/Area,910,1960-1965,   121
+Madagascar,450,Country/Area,910,1960-1965,   156
+Malawi,454,Country/Area,910,1960-1965,   173
+Mauritius,480,Country/Area,910,1960-1965,   61
+Mayotte,175,Country/Area,910,1960-1965,   82
+Mozambique,508,Country/Area,910,1960-1965,   152
+Réunion,638,Country/Area,910,1960-1965,   82
+Rwanda,646,Country/Area,910,1960-1965,   140
+Seychelles,690,Country/Area,910,1960-1965,   70
+Somalia,706,Country/Area,910,1960-1965,   173
+South Sudan,728,Country/Area,910,1960-1965,   209
+Uganda,800,Country/Area,910,1960-1965,   131
+United Republic of Tanzania,834,Country/Area,910,1960-1965,   138
+Zambia,894,Country/Area,910,1960-1965,   121
+Zimbabwe,716,Country/Area,910,1960-1965,   91
+Angola,24,Country/Area,911,1960-1965,   181
+Cameroon,120,Country/Area,911,1960-1965,   141
+Central African Republic,140,Country/Area,911,1960-1965,   158
+Chad,148,Country/Area,911,1960-1965,   168
+Congo,178,Country/Area,911,1960-1965,   108
+Democratic Republic of the Congo,180,Country/Area,911,1960-1965,   151
+Equatorial Guinea,226,Country/Area,911,1960-1965,   158
+Gabon,266,Country/Area,911,1960-1965,   149
+Sao Tome and Principe,678,Country/Area,911,1960-1965,   112
+Botswana,72,Country/Area,913,1960-1965,   99
+Eswatini,748,Country/Area,913,1960-1965,   130
+Lesotho,426,Country/Area,913,1960-1965,   115
+Namibia,516,Country/Area,913,1960-1965,   115
+South Africa,710,Country/Area,913,1960-1965,   112
+Benin,204,Country/Area,914,1960-1965,   176
+Burkina Faso,854,Country/Area,914,1960-1965,   192
+Cabo Verde,132,Country/Area,914,1960-1965,   124
+Côte d'Ivoire,384,Country/Area,914,1960-1965,   162
+Gambia,270,Country/Area,914,1960-1965,   144
+Ghana,288,Country/Area,914,1960-1965,   122
+Guinea,324,Country/Area,914,1960-1965,   195
+Guinea-Bissau,624,Country/Area,914,1960-1965,   157
+Liberia,430,Country/Area,914,1960-1965,   163
+Mali,466,Country/Area,914,1960-1965,   207
+Mauritania,478,Country/Area,914,1960-1965,   122
+Niger,562,Country/Area,914,1960-1965,   158
+Nigeria,566,Country/Area,914,1960-1965,   173
+Senegal,686,Country/Area,914,1960-1965,   117
+Sierra Leone,694,Country/Area,914,1960-1965,   216
+Togo,768,Country/Area,914,1960-1965,   145
+Algeria,12,Country/Area,912,1960-1965,   143
+Egypt,818,Country/Area,912,1960-1965,   184
+Libya,434,Country/Area,912,1960-1965,   166
+Morocco,504,Country/Area,912,1960-1965,   133
+Sudan,729,Country/Area,912,1960-1965,   111
+Tunisia,788,Country/Area,912,1960-1965,   195
+Western Sahara,732,Country/Area,912,1960-1965,   187
+Armenia,51,Country/Area,922,1960-1965,   73
+Azerbaijan,31,Country/Area,922,1960-1965,   110
+Bahrain,48,Country/Area,922,1960-1965,   105
+Cyprus,196,Country/Area,922,1960-1965,   40
+Georgia,268,Country/Area,922,1960-1965,   66
+Iraq,368,Country/Area,922,1960-1965,   129
+Israel,376,Country/Area,922,1960-1965,   28
+Jordan,400,Country/Area,922,1960-1965,   95
+Kuwait,414,Country/Area,922,1960-1965,   81
+Lebanon,422,Country/Area,922,1960-1965,   53
+Oman,512,Country/Area,922,1960-1965,   154
+Qatar,634,Country/Area,922,1960-1965,   69
+Saudi Arabia,682,Country/Area,922,1960-1965,   160
+State of Palestine,275,Country/Area,922,1960-1965,   117
+Syrian Arab Republic,760,Country/Area,922,1960-1965,   108
+Turkey,792,Country/Area,922,1960-1965,   178
+United Arab Emirates,784,Country/Area,922,1960-1965,   117
+Yemen,887,Country/Area,922,1960-1965,   271
+Kazakhstan,398,Country/Area,5500,1960-1965,   93
+Kyrgyzstan,417,Country/Area,5500,1960-1965,   120
+Tajikistan,762,Country/Area,5500,1960-1965,   125
+Turkmenistan,795,Country/Area,5500,1960-1965,   130
+Uzbekistan,860,Country/Area,5500,1960-1965,   105
+Afghanistan,4,Country/Area,5501,1960-1965,   230
+Bangladesh,50,Country/Area,5501,1960-1965,   161
+Bhutan,64,Country/Area,5501,1960-1965,   202
+India,356,Country/Area,5501,1960-1965,   155
+Iran (Islamic Republic of),364,Country/Area,5501,1960-1965,   175
+Maldives,462,Country/Area,5501,1960-1965,   222
+Nepal,524,Country/Area,5501,1960-1965,   208
+Pakistan,586,Country/Area,5501,1960-1965,   172
+Sri Lanka,144,Country/Area,5501,1960-1965,   61
+China,156,Country/Area,906,1960-1965,   135
+"China, Hong Kong SAR",344,Country/Area,906,1960-1965,   34
+"China, Macao SAR",446,Country/Area,906,1960-1965,   44
+"China, Taiwan Province of China",158,Country/Area,906,1960-1965,   48
+Dem. People's Republic of Korea,408,Country/Area,906,1960-1965,   79
+Japan,392,Country/Area,906,1960-1965,   25
+Mongolia,496,Country/Area,906,1960-1965,   134
+Republic of Korea,410,Country/Area,906,1960-1965,   73
+Brunei Darussalam,96,Country/Area,920,1960-1965,   64
+Cambodia,116,Country/Area,920,1960-1965,   134
+Indonesia,360,Country/Area,920,1960-1965,   139
+Lao People's Democratic Republic,418,Country/Area,920,1960-1965,   156
+Malaysia,458,Country/Area,920,1960-1965,   60
+Myanmar,104,Country/Area,920,1960-1965,   156
+Philippines,608,Country/Area,920,1960-1965,   62
+Singapore,702,Country/Area,920,1960-1965,   29
+Thailand,764,Country/Area,920,1960-1965,   92
+Timor-Leste,626,Country/Area,920,1960-1965,   221
+Viet Nam,704,Country/Area,920,1960-1965,   67
+Antigua and Barbuda,28,Country/Area,915,1960-1965,   50
+Aruba,533,Country/Area,915,1960-1965,   42
+Bahamas,44,Country/Area,915,1960-1965,   28
+Barbados,52,Country/Area,915,1960-1965,   55
+Cuba,192,Country/Area,915,1960-1965,   59
+Curaçao,531,Country/Area,915,1960-1965,   41
+Dominican Republic,214,Country/Area,915,1960-1965,   124
+Grenada,308,Country/Area,915,1960-1965,   57
+Guadeloupe,312,Country/Area,915,1960-1965,   52
+Haiti,332,Country/Area,915,1960-1965,   181
+Jamaica,388,Country/Area,915,1960-1965,   56
+Martinique,474,Country/Area,915,1960-1965,   55
+Puerto Rico,630,Country/Area,915,1960-1965,   45
+Saint Lucia,662,Country/Area,915,1960-1965,   81
+Saint Vincent and the Grenadines,670,Country/Area,915,1960-1965,   88
+Trinidad and Tobago,780,Country/Area,915,1960-1965,   52
+United States Virgin Islands,850,Country/Area,915,1960-1965,   41
+Belize,84,Country/Area,916,1960-1965,   78
+Costa Rica,188,Country/Area,916,1960-1965,   82
+El Salvador,222,Country/Area,916,1960-1965,   122
+Guatemala,320,Country/Area,916,1960-1965,   141
+Honduras,340,Country/Area,916,1960-1965,   135
+Mexico,484,Country/Area,916,1960-1965,   88
+Nicaragua,558,Country/Area,916,1960-1965,   131
+Panama,591,Country/Area,916,1960-1965,   62
+Argentina,32,Country/Area,931,1960-1965,   60
+Bolivia (Plurinational State of),68,Country/Area,931,1960-1965,   162
+Brazil,76,Country/Area,931,1960-1965,   112
+Chile,152,Country/Area,931,1960-1965,   107
+Colombia,170,Country/Area,931,1960-1965,   86
+Ecuador,218,Country/Area,931,1960-1965,   115
+French Guiana,254,Country/Area,931,1960-1965,   73
+Guyana,328,Country/Area,931,1960-1965,   62
+Paraguay,600,Country/Area,931,1960-1965,   62
+Peru,604,Country/Area,931,1960-1965,   133
+Suriname,740,Country/Area,931,1960-1965,   56
+Uruguay,858,Country/Area,931,1960-1965,   48
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1960-1965,   69
+Australia,36,Country/Area,927,1960-1965,   20
+New Zealand,554,Country/Area,927,1960-1965,   21
+Fiji,242,Country/Area,928,1960-1965,   54
+New Caledonia,540,Country/Area,928,1960-1965,   79
+Papua New Guinea,598,Country/Area,928,1960-1965,   124
+Solomon Islands,90,Country/Area,928,1960-1965,   112
+Vanuatu,548,Country/Area,928,1960-1965,   99
+Guam,316,Country/Area,954,1960-1965,   60
+Kiribati,296,Country/Area,954,1960-1965,   121
+Micronesia (Fed. States of),583,Country/Area,954,1960-1965,   76
+French Polynesia,258,Country/Area,957,1960-1965,   89
+Samoa,882,Country/Area,957,1960-1965,   78
+Tonga,776,Country/Area,957,1960-1965,   59
+Belarus,112,Country/Area,923,1960-1965,   38
+Bulgaria,100,Country/Area,923,1960-1965,   36
+Czechia,203,Country/Area,923,1960-1965,   20
+Hungary,348,Country/Area,923,1960-1965,   43
+Poland,616,Country/Area,923,1960-1965,   50
+Republic of Moldova,498,Country/Area,923,1960-1965,   59
+Romania,642,Country/Area,923,1960-1965,   54
+Russian Federation,643,Country/Area,923,1960-1965,   40
+Slovakia,703,Country/Area,923,1960-1965,   27
+Ukraine,804,Country/Area,923,1960-1965,   31
+Channel Islands,830,Country/Area,924,1960-1965,   27
+Denmark,208,Country/Area,924,1960-1965,   20
+Estonia,233,Country/Area,924,1960-1965,   33
+Finland,246,Country/Area,924,1960-1965,   19
+Iceland,352,Country/Area,924,1960-1965,   17
+Ireland,372,Country/Area,924,1960-1965,   28
+Latvia,428,Country/Area,924,1960-1965,   30
+Lithuania,440,Country/Area,924,1960-1965,   43
+Norway,578,Country/Area,924,1960-1965,   17
+Sweden,752,Country/Area,924,1960-1965,   15
+United Kingdom,826,Country/Area,924,1960-1965,   22
+Albania,8,Country/Area,925,1960-1965,   99
+Bosnia and Herzegovina,70,Country/Area,925,1960-1965,   98
+Croatia,191,Country/Area,925,1960-1965,   50
+Greece,300,Country/Area,925,1960-1965,   38
+Italy,380,Country/Area,925,1960-1965,   40
+Malta,470,Country/Area,925,1960-1965,   32
+Montenegro,499,Country/Area,925,1960-1965,   72
+North Macedonia,807,Country/Area,925,1960-1965,   95
+Portugal,620,Country/Area,925,1960-1965,   77
+Serbia,688,Country/Area,925,1960-1965,   88
+Slovenia,705,Country/Area,925,1960-1965,   17
+Spain,724,Country/Area,925,1960-1965,   42
+Austria,40,Country/Area,926,1960-1965,   32
+Belgium,56,Country/Area,926,1960-1965,   27
+France,250,Country/Area,926,1960-1965,   25
+Germany,276,Country/Area,926,1960-1965,   30
+Luxembourg,442,Country/Area,926,1960-1965,   29
+Netherlands,528,Country/Area,926,1960-1965,   16
+Switzerland,756,Country/Area,926,1960-1965,   21
+Canada,124,Country/Area,918,1960-1965,   26
+United States of America,840,Country/Area,918,1960-1965,   25
+Burundi,108,Country/Area,910,1965-1970,   140
+Comoros,174,Country/Area,910,1965-1970,   153
+Djibouti,262,Country/Area,910,1965-1970,   120
+Eritrea,232,Country/Area,910,1965-1970,   148
+Ethiopia,231,Country/Area,910,1965-1970,   148
+Kenya,404,Country/Area,910,1965-1970,   109
+Madagascar,450,Country/Area,910,1965-1970,   145
+Malawi,454,Country/Area,910,1965-1970,   169
+Mauritius,480,Country/Area,910,1965-1970,   67
+Mayotte,175,Country/Area,910,1965-1970,   61
+Mozambique,508,Country/Area,910,1965-1970,   153
+Réunion,638,Country/Area,910,1965-1970,   61
+Rwanda,646,Country/Area,910,1965-1970,   136
+Seychelles,690,Country/Area,910,1965-1970,   60
+Somalia,706,Country/Area,910,1965-1970,   160
+South Sudan,728,Country/Area,910,1965-1970,   193
+Uganda,800,Country/Area,910,1965-1970,   120
+United Republic of Tanzania,834,Country/Area,910,1965-1970,   132
+Zambia,894,Country/Area,910,1965-1970,   116
+Zimbabwe,716,Country/Area,910,1965-1970,   80
+Angola,24,Country/Area,911,1965-1970,   172
+Cameroon,120,Country/Area,911,1965-1970,   133
+Central African Republic,140,Country/Area,911,1965-1970,   150
+Chad,148,Country/Area,911,1965-1970,   159
+Congo,178,Country/Area,911,1965-1970,   97
+Democratic Republic of the Congo,180,Country/Area,911,1965-1970,   143
+Equatorial Guinea,226,Country/Area,911,1965-1970,   154
+Gabon,266,Country/Area,911,1965-1970,   134
+Sao Tome and Principe,678,Country/Area,911,1965-1970,   100
+Botswana,72,Country/Area,913,1965-1970,   85
+Eswatini,748,Country/Area,913,1965-1970,   121
+Lesotho,426,Country/Area,913,1965-1970,   114
+Namibia,516,Country/Area,913,1965-1970,   101
+South Africa,710,Country/Area,913,1965-1970,   103
+Benin,204,Country/Area,914,1965-1970,   163
+Burkina Faso,854,Country/Area,914,1965-1970,   172
+Cabo Verde,132,Country/Area,914,1965-1970,   109
+Côte d'Ivoire,384,Country/Area,914,1965-1970,   144
+Gambia,270,Country/Area,914,1965-1970,   127
+Ghana,288,Country/Area,914,1965-1970,   113
+Guinea,324,Country/Area,914,1965-1970,   192
+Guinea-Bissau,624,Country/Area,914,1965-1970,   151
+Liberia,430,Country/Area,914,1965-1970,   157
+Mali,466,Country/Area,914,1965-1970,   191
+Mauritania,478,Country/Area,914,1965-1970,   109
+Niger,562,Country/Area,914,1965-1970,   156
+Nigeria,566,Country/Area,914,1965-1970,   159
+Senegal,686,Country/Area,914,1965-1970,   113
+Sierra Leone,694,Country/Area,914,1965-1970,   204
+Togo,768,Country/Area,914,1965-1970,   128
+Algeria,12,Country/Area,912,1965-1970,   132
+Egypt,818,Country/Area,912,1965-1970,   170
+Libya,434,Country/Area,912,1965-1970,   121
+Morocco,504,Country/Area,912,1965-1970,   123
+Sudan,729,Country/Area,912,1965-1970,   102
+Tunisia,788,Country/Area,912,1965-1970,   173
+Western Sahara,732,Country/Area,912,1965-1970,   173
+Armenia,51,Country/Area,922,1965-1970,   68
+Azerbaijan,31,Country/Area,922,1965-1970,   105
+Bahrain,48,Country/Area,922,1965-1970,   71
+Cyprus,196,Country/Area,922,1965-1970,   31
+Georgia,268,Country/Area,922,1965-1970,   59
+Iraq,368,Country/Area,922,1965-1970,   91
+Israel,376,Country/Area,922,1965-1970,   24
+Jordan,400,Country/Area,922,1965-1970,   77
+Kuwait,414,Country/Area,922,1965-1970,   59
+Lebanon,422,Country/Area,922,1965-1970,   47
+Oman,512,Country/Area,922,1965-1970,   131
+Qatar,634,Country/Area,922,1965-1970,   51
+Saudi Arabia,682,Country/Area,922,1965-1970,   137
+State of Palestine,275,Country/Area,922,1965-1970,   99
+Syrian Arab Republic,760,Country/Area,922,1965-1970,   90
+Turkey,792,Country/Area,922,1965-1970,   159
+United Arab Emirates,784,Country/Area,922,1965-1970,   87
+Yemen,887,Country/Area,922,1965-1970,   240
+Kazakhstan,398,Country/Area,5500,1965-1970,   85
+Kyrgyzstan,417,Country/Area,5500,1965-1970,   110
+Tajikistan,762,Country/Area,5500,1965-1970,   117
+Turkmenistan,795,Country/Area,5500,1965-1970,   120
+Uzbekistan,860,Country/Area,5500,1965-1970,   94
+Afghanistan,4,Country/Area,5501,1965-1970,   211
+Bangladesh,50,Country/Area,5501,1965-1970,   150
+Bhutan,64,Country/Area,5501,1965-1970,   176
+India,356,Country/Area,5501,1965-1970,   146
+Iran (Islamic Republic of),364,Country/Area,5501,1965-1970,   154
+Maldives,462,Country/Area,5501,1965-1970,   191
+Nepal,524,Country/Area,5501,1965-1970,   187
+Pakistan,586,Country/Area,5501,1965-1970,   150
+Sri Lanka,144,Country/Area,5501,1965-1970,   53
+China,156,Country/Area,906,1965-1970,   94
+"China, Hong Kong SAR",344,Country/Area,906,1965-1970,   25
+"China, Macao SAR",446,Country/Area,906,1965-1970,   35
+"China, Taiwan Province of China",158,Country/Area,906,1965-1970,   40
+Dem. People's Republic of Korea,408,Country/Area,906,1965-1970,   58
+Japan,392,Country/Area,906,1965-1970,   16
+Mongolia,496,Country/Area,906,1965-1970,   119
+Republic of Korea,410,Country/Area,906,1965-1970,   57
+Brunei Darussalam,96,Country/Area,920,1965-1970,   44
+Cambodia,116,Country/Area,920,1965-1970,   132
+Indonesia,360,Country/Area,920,1965-1970,   121
+Lao People's Democratic Republic,418,Country/Area,920,1965-1970,   147
+Malaysia,458,Country/Area,920,1965-1970,   46
+Myanmar,104,Country/Area,920,1965-1970,   123
+Philippines,608,Country/Area,920,1965-1970,   57
+Singapore,702,Country/Area,920,1965-1970,   24
+Thailand,764,Country/Area,920,1965-1970,   78
+Timor-Leste,626,Country/Area,920,1965-1970,   201
+Viet Nam,704,Country/Area,920,1965-1970,   57
+Antigua and Barbuda,28,Country/Area,915,1965-1970,   42
+Aruba,533,Country/Area,915,1965-1970,   36
+Bahamas,44,Country/Area,915,1965-1970,   25
+Barbados,52,Country/Area,915,1965-1970,   43
+Cuba,192,Country/Area,915,1965-1970,   50
+Curaçao,531,Country/Area,915,1965-1970,   34
+Dominican Republic,214,Country/Area,915,1965-1970,   109
+Grenada,308,Country/Area,915,1965-1970,   47
+Guadeloupe,312,Country/Area,915,1965-1970,   42
+Haiti,332,Country/Area,915,1965-1970,   167
+Jamaica,388,Country/Area,915,1965-1970,   47
+Martinique,474,Country/Area,915,1965-1970,   45
+Puerto Rico,630,Country/Area,915,1965-1970,   33
+Saint Lucia,662,Country/Area,915,1965-1970,   62
+Saint Vincent and the Grenadines,670,Country/Area,915,1965-1970,   73
+Trinidad and Tobago,780,Country/Area,915,1965-1970,   46
+United States Virgin Islands,850,Country/Area,915,1965-1970,   35
+Belize,84,Country/Area,916,1965-1970,   69
+Costa Rica,188,Country/Area,916,1965-1970,   70
+El Salvador,222,Country/Area,916,1965-1970,   110
+Guatemala,320,Country/Area,916,1965-1970,   127
+Honduras,340,Country/Area,916,1965-1970,   119
+Mexico,484,Country/Area,916,1965-1970,   79
+Nicaragua,558,Country/Area,916,1965-1970,   114
+Panama,591,Country/Area,916,1965-1970,   52
+Argentina,32,Country/Area,931,1965-1970,   57
+Bolivia (Plurinational State of),68,Country/Area,931,1965-1970,   152
+Brazil,76,Country/Area,931,1965-1970,   101
+Chile,152,Country/Area,931,1965-1970,   88
+Colombia,170,Country/Area,931,1965-1970,   75
+Ecuador,218,Country/Area,931,1965-1970,   102
+French Guiana,254,Country/Area,931,1965-1970,   51
+Guyana,328,Country/Area,931,1965-1970,   57
+Paraguay,600,Country/Area,931,1965-1970,   59
+Peru,604,Country/Area,931,1965-1970,   121
+Suriname,740,Country/Area,931,1965-1970,   54
+Uruguay,858,Country/Area,931,1965-1970,   47
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1965-1970,   58
+Australia,36,Country/Area,927,1965-1970,   18
+New Zealand,554,Country/Area,927,1965-1970,   18
+Fiji,242,Country/Area,928,1965-1970,   47
+New Caledonia,540,Country/Area,928,1965-1970,   65
+Papua New Guinea,598,Country/Area,928,1965-1970,   108
+Solomon Islands,90,Country/Area,928,1965-1970,   88
+Vanuatu,548,Country/Area,928,1965-1970,   84
+Guam,316,Country/Area,954,1965-1970,   50
+Kiribati,296,Country/Area,954,1965-1970,   105
+Micronesia (Fed. States of),583,Country/Area,954,1965-1970,   65
+French Polynesia,258,Country/Area,957,1965-1970,   80
+Samoa,882,Country/Area,957,1965-1970,   69
+Tonga,776,Country/Area,957,1965-1970,   46
+Belarus,112,Country/Area,923,1965-1970,   26
+Bulgaria,100,Country/Area,923,1965-1970,   30
+Czechia,203,Country/Area,923,1965-1970,   22
+Hungary,348,Country/Area,923,1965-1970,   37
+Poland,616,Country/Area,923,1965-1970,   36
+Republic of Moldova,498,Country/Area,923,1965-1970,   49
+Romania,642,Country/Area,923,1965-1970,   51
+Russian Federation,643,Country/Area,923,1965-1970,   31
+Slovakia,703,Country/Area,923,1965-1970,   25
+Ukraine,804,Country/Area,923,1965-1970,   23
+Channel Islands,830,Country/Area,924,1965-1970,   25
+Denmark,208,Country/Area,924,1965-1970,   16
+Estonia,233,Country/Area,924,1965-1970,   24
+Finland,246,Country/Area,924,1965-1970,   15
+Iceland,352,Country/Area,924,1965-1970,   13
+Ireland,372,Country/Area,924,1965-1970,   22
+Latvia,428,Country/Area,924,1965-1970,   22
+Lithuania,440,Country/Area,924,1965-1970,   27
+Norway,578,Country/Area,924,1965-1970,   14
+Sweden,752,Country/Area,924,1965-1970,   12
+United Kingdom,826,Country/Area,924,1965-1970,   19
+Albania,8,Country/Area,925,1965-1970,   77
+Bosnia and Herzegovina,70,Country/Area,925,1965-1970,   73
+Croatia,191,Country/Area,925,1965-1970,   35
+Greece,300,Country/Area,925,1965-1970,   34
+Italy,380,Country/Area,925,1965-1970,   32
+Malta,470,Country/Area,925,1965-1970,   27
+Montenegro,499,Country/Area,925,1965-1970,   50
+North Macedonia,807,Country/Area,925,1965-1970,   82
+Portugal,620,Country/Area,925,1965-1970,   61
+Serbia,688,Country/Area,925,1965-1970,   69
+Slovenia,705,Country/Area,925,1965-1970,   17
+Spain,724,Country/Area,925,1965-1970,   33
+Austria,40,Country/Area,926,1965-1970,   26
+Belgium,56,Country/Area,926,1965-1970,   22
+France,250,Country/Area,926,1965-1970,   20
+Germany,276,Country/Area,926,1965-1970,   23
+Luxembourg,442,Country/Area,926,1965-1970,   21
+Netherlands,528,Country/Area,926,1965-1970,   13
+Switzerland,756,Country/Area,926,1965-1970,   17
+Canada,124,Country/Area,918,1965-1970,   21
+United States of America,840,Country/Area,918,1965-1970,   22
+Burundi,108,Country/Area,910,1970-1975,   136
+Comoros,174,Country/Area,910,1970-1975,   139
+Djibouti,262,Country/Area,910,1970-1975,   104
+Eritrea,232,Country/Area,910,1970-1975,   140
+Ethiopia,231,Country/Area,910,1970-1975,   140
+Kenya,404,Country/Area,910,1970-1975,   97
+Madagascar,450,Country/Area,910,1970-1975,   134
+Malawi,454,Country/Area,910,1970-1975,   162
+Mauritius,480,Country/Area,910,1970-1975,   61
+Mayotte,175,Country/Area,910,1970-1975,   46
+Mozambique,508,Country/Area,910,1970-1975,   153
+Réunion,638,Country/Area,910,1970-1975,   46
+Rwanda,646,Country/Area,910,1970-1975,   135
+Seychelles,690,Country/Area,910,1970-1975,   47
+Somalia,706,Country/Area,910,1970-1975,   147
+South Sudan,728,Country/Area,910,1970-1975,   181
+Uganda,800,Country/Area,910,1970-1975,   117
+United Republic of Tanzania,834,Country/Area,910,1970-1975,   125
+Zambia,894,Country/Area,910,1970-1975,   107
+Zimbabwe,716,Country/Area,910,1970-1975,   76
+Angola,24,Country/Area,911,1970-1975,   162
+Cameroon,120,Country/Area,911,1970-1975,   123
+Central African Republic,140,Country/Area,911,1970-1975,   137
+Chad,148,Country/Area,911,1970-1975,   146
+Congo,178,Country/Area,911,1970-1975,   86
+Democratic Republic of the Congo,180,Country/Area,911,1970-1975,   134
+Equatorial Guinea,226,Country/Area,911,1970-1975,   149
+Gabon,266,Country/Area,911,1970-1975,   118
+Sao Tome and Principe,678,Country/Area,911,1970-1975,   87
+Botswana,72,Country/Area,913,1970-1975,   71
+Eswatini,748,Country/Area,913,1970-1975,   108
+Lesotho,426,Country/Area,913,1970-1975,   105
+Namibia,516,Country/Area,913,1970-1975,   88
+South Africa,710,Country/Area,913,1970-1975,   89
+Benin,204,Country/Area,914,1970-1975,   151
+Burkina Faso,854,Country/Area,914,1970-1975,   153
+Cabo Verde,132,Country/Area,914,1970-1975,   96
+Côte d'Ivoire,384,Country/Area,914,1970-1975,   129
+Gambia,270,Country/Area,914,1970-1975,   113
+Ghana,288,Country/Area,914,1970-1975,   106
+Guinea,324,Country/Area,914,1970-1975,   185
+Guinea-Bissau,624,Country/Area,914,1970-1975,   146
+Liberia,430,Country/Area,914,1970-1975,   150
+Mali,466,Country/Area,914,1970-1975,   176
+Mauritania,478,Country/Area,914,1970-1975,   103
+Niger,562,Country/Area,914,1970-1975,   151
+Nigeria,566,Country/Area,914,1970-1975,   147
+Senegal,686,Country/Area,914,1970-1975,   108
+Sierra Leone,694,Country/Area,914,1970-1975,   190
+Togo,768,Country/Area,914,1970-1975,   113
+Algeria,12,Country/Area,912,1970-1975,   122
+Egypt,818,Country/Area,912,1970-1975,   165
+Libya,434,Country/Area,912,1970-1975,   90
+Morocco,504,Country/Area,912,1970-1975,   113
+Sudan,729,Country/Area,912,1970-1975,   93
+Tunisia,788,Country/Area,912,1970-1975,   140
+Western Sahara,732,Country/Area,912,1970-1975,   160
+Armenia,51,Country/Area,922,1970-1975,   63
+Azerbaijan,31,Country/Area,922,1970-1975,   100
+Bahrain,48,Country/Area,922,1970-1975,   47
+Cyprus,196,Country/Area,922,1970-1975,   25
+Georgia,268,Country/Area,922,1970-1975,   52
+Iraq,368,Country/Area,922,1970-1975,   73
+Israel,376,Country/Area,922,1970-1975,   21
+Jordan,400,Country/Area,922,1970-1975,   66
+Kuwait,414,Country/Area,922,1970-1975,   45
+Lebanon,422,Country/Area,922,1970-1975,   42
+Oman,512,Country/Area,922,1970-1975,   109
+Qatar,634,Country/Area,922,1970-1975,   44
+Saudi Arabia,682,Country/Area,922,1970-1975,   105
+State of Palestine,275,Country/Area,922,1970-1975,   83
+Syrian Arab Republic,760,Country/Area,922,1970-1975,   71
+Turkey,792,Country/Area,922,1970-1975,   145
+United Arab Emirates,784,Country/Area,922,1970-1975,   58
+Yemen,887,Country/Area,922,1970-1975,   198
+Kazakhstan,398,Country/Area,5500,1970-1975,   77
+Kyrgyzstan,417,Country/Area,5500,1970-1975,   100
+Tajikistan,762,Country/Area,5500,1970-1975,   106
+Turkmenistan,795,Country/Area,5500,1970-1975,   110
+Uzbekistan,860,Country/Area,5500,1970-1975,   84
+Afghanistan,4,Country/Area,5501,1970-1975,   192
+Bangladesh,50,Country/Area,5501,1970-1975,   168
+Bhutan,64,Country/Area,5501,1970-1975,   151
+India,356,Country/Area,5501,1970-1975,   136
+Iran (Islamic Republic of),364,Country/Area,5501,1970-1975,   124
+Maldives,462,Country/Area,5501,1970-1975,   157
+Nepal,524,Country/Area,5501,1970-1975,   167
+Pakistan,586,Country/Area,5501,1970-1975,   137
+Sri Lanka,144,Country/Area,5501,1970-1975,   44
+China,156,Country/Area,906,1970-1975,   72
+"China, Hong Kong SAR",344,Country/Area,906,1970-1975,   17
+"China, Macao SAR",446,Country/Area,906,1970-1975,   26
+"China, Taiwan Province of China",158,Country/Area,906,1970-1975,   15
+Dem. People's Republic of Korea,408,Country/Area,906,1970-1975,   45
+Japan,392,Country/Area,906,1970-1975,   12
+Mongolia,496,Country/Area,906,1970-1975,   106
+Republic of Korea,410,Country/Area,906,1970-1975,   39
+Brunei Darussalam,96,Country/Area,920,1970-1975,   33
+Cambodia,116,Country/Area,920,1970-1975,   139
+Indonesia,360,Country/Area,920,1970-1975,   105
+Lao People's Democratic Republic,418,Country/Area,920,1970-1975,   138
+Malaysia,458,Country/Area,920,1970-1975,   38
+Myanmar,104,Country/Area,920,1970-1975,   111
+Philippines,608,Country/Area,920,1970-1975,   55
+Singapore,702,Country/Area,920,1970-1975,   19
+Thailand,764,Country/Area,920,1970-1975,   63
+Timor-Leste,626,Country/Area,920,1970-1975,   183
+Viet Nam,704,Country/Area,920,1970-1975,   54
+Antigua and Barbuda,28,Country/Area,915,1970-1975,   39
+Aruba,533,Country/Area,915,1970-1975,   29
+Bahamas,44,Country/Area,915,1970-1975,   26
+Barbados,52,Country/Area,915,1970-1975,   34
+Cuba,192,Country/Area,915,1970-1975,   38
+Curaçao,531,Country/Area,915,1970-1975,   27
+Dominican Republic,214,Country/Area,915,1970-1975,   96
+Grenada,308,Country/Area,915,1970-1975,   38
+Guadeloupe,312,Country/Area,915,1970-1975,   33
+Haiti,332,Country/Area,915,1970-1975,   148
+Jamaica,388,Country/Area,915,1970-1975,   41
+Martinique,474,Country/Area,915,1970-1975,   35
+Puerto Rico,630,Country/Area,915,1970-1975,   25
+Saint Lucia,662,Country/Area,915,1970-1975,   47
+Saint Vincent and the Grenadines,670,Country/Area,915,1970-1975,   61
+Trinidad and Tobago,780,Country/Area,915,1970-1975,   42
+United States Virgin Islands,850,Country/Area,915,1970-1975,   30
+Belize,84,Country/Area,916,1970-1975,   60
+Costa Rica,188,Country/Area,916,1970-1975,   56
+El Salvador,222,Country/Area,916,1970-1975,   101
+Guatemala,320,Country/Area,916,1970-1975,   112
+Honduras,340,Country/Area,916,1970-1975,   104
+Mexico,484,Country/Area,916,1970-1975,   69
+Nicaragua,558,Country/Area,916,1970-1975,   98
+Panama,591,Country/Area,916,1970-1975,   43
+Argentina,32,Country/Area,931,1970-1975,   48
+Bolivia (Plurinational State of),68,Country/Area,931,1970-1975,   141
+Brazil,76,Country/Area,931,1970-1975,   92
+Chile,152,Country/Area,931,1970-1975,   67
+Colombia,170,Country/Area,931,1970-1975,   63
+Ecuador,218,Country/Area,931,1970-1975,   90
+French Guiana,254,Country/Area,931,1970-1975,   45
+Guyana,328,Country/Area,931,1970-1975,   56
+Paraguay,600,Country/Area,931,1970-1975,   57
+Peru,604,Country/Area,931,1970-1975,   104
+Suriname,740,Country/Area,931,1970-1975,   52
+Uruguay,858,Country/Area,931,1970-1975,   46
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1970-1975,   46
+Australia,36,Country/Area,927,1970-1975,   16
+New Zealand,554,Country/Area,927,1970-1975,   16
+Fiji,242,Country/Area,928,1970-1975,   44
+New Caledonia,540,Country/Area,928,1970-1975,   54
+Papua New Guinea,598,Country/Area,928,1970-1975,   94
+Solomon Islands,90,Country/Area,928,1970-1975,   64
+Vanuatu,548,Country/Area,928,1970-1975,   71
+Guam,316,Country/Area,954,1970-1975,   41
+Kiribati,296,Country/Area,954,1970-1975,   93
+Micronesia (Fed. States of),583,Country/Area,954,1970-1975,   56
+French Polynesia,258,Country/Area,957,1970-1975,   71
+Samoa,882,Country/Area,957,1970-1975,   59
+Tonga,776,Country/Area,957,1970-1975,   34
+Belarus,112,Country/Area,923,1970-1975,   21
+Bulgaria,100,Country/Area,923,1970-1975,   25
+Czechia,203,Country/Area,923,1970-1975,   20
+Hungary,348,Country/Area,923,1970-1975,   35
+Poland,616,Country/Area,923,1970-1975,   32
+Republic of Moldova,498,Country/Area,923,1970-1975,   46
+Romania,642,Country/Area,923,1970-1975,   39
+Russian Federation,643,Country/Area,923,1970-1975,   26
+Slovakia,703,Country/Area,923,1970-1975,   25
+Ukraine,804,Country/Area,923,1970-1975,   21
+Channel Islands,830,Country/Area,924,1970-1975,   23
+Denmark,208,Country/Area,924,1970-1975,   12
+Estonia,233,Country/Area,924,1970-1975,   21
+Finland,246,Country/Area,924,1970-1975,   12
+Iceland,352,Country/Area,924,1970-1975,   12
+Ireland,372,Country/Area,924,1970-1975,   18
+Latvia,428,Country/Area,924,1970-1975,   20
+Lithuania,440,Country/Area,924,1970-1975,   22
+Norway,578,Country/Area,924,1970-1975,   11
+Sweden,752,Country/Area,924,1970-1975,   10
+United Kingdom,826,Country/Area,924,1970-1975,   17
+Albania,8,Country/Area,925,1970-1975,   58
+Bosnia and Herzegovina,70,Country/Area,925,1970-1975,   49
+Croatia,191,Country/Area,925,1970-1975,   25
+Greece,300,Country/Area,925,1970-1975,   25
+Italy,380,Country/Area,925,1970-1975,   26
+Malta,470,Country/Area,925,1970-1975,   21
+Montenegro,499,Country/Area,925,1970-1975,   33
+North Macedonia,807,Country/Area,925,1970-1975,   69
+Portugal,620,Country/Area,925,1970-1975,   45
+Serbia,688,Country/Area,925,1970-1975,   51
+Slovenia,705,Country/Area,925,1970-1975,   16
+Spain,724,Country/Area,925,1970-1975,   23
+Austria,40,Country/Area,926,1970-1975,   24
+Belgium,56,Country/Area,926,1970-1975,   18
+France,250,Country/Area,926,1970-1975,   16
+Germany,276,Country/Area,926,1970-1975,   21
+Luxembourg,442,Country/Area,926,1970-1975,   18
+Netherlands,528,Country/Area,926,1970-1975,   11
+Switzerland,756,Country/Area,926,1970-1975,   14
+Canada,124,Country/Area,918,1970-1975,   16
+United States of America,840,Country/Area,918,1970-1975,   18
+Burundi,108,Country/Area,910,1975-1980,   132
+Comoros,174,Country/Area,910,1975-1980,   127
+Djibouti,262,Country/Area,910,1975-1980,   96
+Eritrea,232,Country/Area,910,1975-1980,   132
+Ethiopia,231,Country/Area,910,1975-1980,   136
+Kenya,404,Country/Area,910,1975-1980,   86
+Madagascar,450,Country/Area,910,1975-1980,   122
+Malawi,454,Country/Area,910,1975-1980,   155
+Mauritius,480,Country/Area,910,1975-1980,   38
+Mayotte,175,Country/Area,910,1975-1980,   34
+Mozambique,508,Country/Area,910,1975-1980,   152
+Réunion,638,Country/Area,910,1975-1980,   34
+Rwanda,646,Country/Area,910,1975-1980,   130
+Seychelles,690,Country/Area,910,1975-1980,   32
+Somalia,706,Country/Area,910,1975-1980,   137
+South Sudan,728,Country/Area,910,1975-1980,   169
+Uganda,800,Country/Area,910,1975-1980,   116
+United Republic of Tanzania,834,Country/Area,910,1975-1980,   116
+Zambia,894,Country/Area,910,1975-1980,   100
+Zimbabwe,716,Country/Area,910,1975-1980,   75
+Angola,24,Country/Area,911,1975-1980,   155
+Cameroon,120,Country/Area,911,1975-1980,   112
+Central African Republic,140,Country/Area,911,1975-1980,   123
+Chad,148,Country/Area,911,1975-1980,   138
+Congo,178,Country/Area,911,1975-1980,   76
+Democratic Republic of the Congo,180,Country/Area,911,1975-1980,   129
+Equatorial Guinea,226,Country/Area,911,1975-1980,   143
+Gabon,266,Country/Area,911,1975-1980,   100
+Sao Tome and Principe,678,Country/Area,911,1975-1980,   74
+Botswana,72,Country/Area,913,1975-1980,   56
+Eswatini,748,Country/Area,913,1975-1980,   89
+Lesotho,426,Country/Area,913,1975-1980,   91
+Namibia,516,Country/Area,913,1975-1980,   76
+South Africa,710,Country/Area,913,1975-1980,   71
+Benin,204,Country/Area,914,1975-1980,   135
+Burkina Faso,854,Country/Area,914,1975-1980,   133
+Cabo Verde,132,Country/Area,914,1975-1980,   70
+Côte d'Ivoire,384,Country/Area,914,1975-1980,   115
+Gambia,270,Country/Area,914,1975-1980,   101
+Ghana,288,Country/Area,914,1975-1980,   99
+Guinea,324,Country/Area,914,1975-1980,   171
+Guinea-Bissau,624,Country/Area,914,1975-1980,   141
+Liberia,430,Country/Area,914,1975-1980,   144
+Mali,466,Country/Area,914,1975-1980,   163
+Mauritania,478,Country/Area,914,1975-1980,   97
+Niger,562,Country/Area,914,1975-1980,   139
+Nigeria,566,Country/Area,914,1975-1980,   134
+Senegal,686,Country/Area,914,1975-1980,   97
+Sierra Leone,694,Country/Area,914,1975-1980,   180
+Togo,768,Country/Area,914,1975-1980,   101
+Algeria,12,Country/Area,912,1975-1980,   105
+Egypt,818,Country/Area,912,1975-1980,   133
+Libya,434,Country/Area,912,1975-1980,   67
+Morocco,504,Country/Area,912,1975-1980,   102
+Sudan,729,Country/Area,912,1975-1980,   89
+Tunisia,788,Country/Area,912,1975-1980,   97
+Western Sahara,732,Country/Area,912,1975-1980,   134
+Armenia,51,Country/Area,922,1975-1980,   58
+Azerbaijan,31,Country/Area,922,1975-1980,   95
+Bahrain,48,Country/Area,922,1975-1980,   32
+Cyprus,196,Country/Area,922,1975-1980,   19
+Georgia,268,Country/Area,922,1975-1980,   49
+Iraq,368,Country/Area,922,1975-1980,   57
+Israel,376,Country/Area,922,1975-1980,   17
+Jordan,400,Country/Area,922,1975-1980,   54
+Kuwait,414,Country/Area,922,1975-1980,   34
+Lebanon,422,Country/Area,922,1975-1980,   38
+Oman,512,Country/Area,922,1975-1980,   83
+Qatar,634,Country/Area,922,1975-1980,   33
+Saudi Arabia,682,Country/Area,922,1975-1980,   80
+State of Palestine,275,Country/Area,922,1975-1980,   68
+Syrian Arab Republic,760,Country/Area,922,1975-1980,   55
+Turkey,792,Country/Area,922,1975-1980,   120
+United Arab Emirates,784,Country/Area,922,1975-1980,   37
+Yemen,887,Country/Area,922,1975-1980,   159
+Kazakhstan,398,Country/Area,5500,1975-1980,   69
+Kyrgyzstan,417,Country/Area,5500,1975-1980,   90
+Tajikistan,762,Country/Area,5500,1975-1980,   97
+Turkmenistan,795,Country/Area,5500,1975-1980,   101
+Uzbekistan,860,Country/Area,5500,1975-1980,   78
+Afghanistan,4,Country/Area,5501,1975-1980,   172
+Bangladesh,50,Country/Area,5501,1975-1980,   138
+Bhutan,64,Country/Area,5501,1975-1980,   131
+India,356,Country/Area,5501,1975-1980,   121
+Iran (Islamic Republic of),364,Country/Area,5501,1975-1980,   95
+Maldives,462,Country/Area,5501,1975-1980,   121
+Nepal,524,Country/Area,5501,1975-1980,   149
+Pakistan,586,Country/Area,5501,1975-1980,   127
+Sri Lanka,144,Country/Area,5501,1975-1980,   36
+China,156,Country/Area,906,1975-1980,   55
+"China, Hong Kong SAR",344,Country/Area,906,1975-1980,   13
+"China, Macao SAR",446,Country/Area,906,1975-1980,   20
+"China, Taiwan Province of China",158,Country/Area,906,1975-1980,   11
+Dem. People's Republic of Korea,408,Country/Area,906,1975-1980,   36
+Japan,392,Country/Area,906,1975-1980,   8
+Mongolia,496,Country/Area,906,1975-1980,   104
+Republic of Korea,410,Country/Area,906,1975-1980,   34
+Brunei Darussalam,96,Country/Area,920,1975-1980,   22
+Cambodia,116,Country/Area,920,1975-1980,   319
+Indonesia,360,Country/Area,920,1975-1980,   91
+Lao People's Democratic Republic,418,Country/Area,920,1975-1980,   130
+Malaysia,458,Country/Area,920,1975-1980,   29
+Myanmar,104,Country/Area,920,1975-1980,   100
+Philippines,608,Country/Area,920,1975-1980,   54
+Singapore,702,Country/Area,920,1975-1980,   13
+Thailand,764,Country/Area,920,1975-1980,   51
+Timor-Leste,626,Country/Area,920,1975-1980,   253
+Viet Nam,704,Country/Area,920,1975-1980,   46
+Antigua and Barbuda,28,Country/Area,915,1975-1980,   37
+Aruba,533,Country/Area,915,1975-1980,   25
+Bahamas,44,Country/Area,915,1975-1980,   26
+Barbados,52,Country/Area,915,1975-1980,   26
+Cuba,192,Country/Area,915,1975-1980,   22
+Curaçao,531,Country/Area,915,1975-1980,   22
+Dominican Republic,214,Country/Area,915,1975-1980,   86
+Grenada,308,Country/Area,915,1975-1980,   29
+Guadeloupe,312,Country/Area,915,1975-1980,   27
+Haiti,332,Country/Area,915,1975-1980,   132
+Jamaica,388,Country/Area,915,1975-1980,   35
+Martinique,474,Country/Area,915,1975-1980,   28
+Puerto Rico,630,Country/Area,915,1975-1980,   20
+Saint Lucia,662,Country/Area,915,1975-1980,   30
+Saint Vincent and the Grenadines,670,Country/Area,915,1975-1980,   50
+Trinidad and Tobago,780,Country/Area,915,1975-1980,   37
+United States Virgin Islands,850,Country/Area,915,1975-1980,   25
+Belize,84,Country/Area,916,1975-1980,   50
+Costa Rica,188,Country/Area,916,1975-1980,   35
+El Salvador,222,Country/Area,916,1975-1980,   93
+Guatemala,320,Country/Area,916,1975-1980,   96
+Honduras,340,Country/Area,916,1975-1980,   81
+Mexico,484,Country/Area,916,1975-1980,   57
+Nicaragua,558,Country/Area,916,1975-1980,   90
+Panama,591,Country/Area,916,1975-1980,   36
+Argentina,32,Country/Area,931,1975-1980,   39
+Bolivia (Plurinational State of),68,Country/Area,931,1975-1980,   128
+Brazil,76,Country/Area,931,1975-1980,   83
+Chile,152,Country/Area,931,1975-1980,   44
+Colombia,170,Country/Area,931,1975-1980,   50
+Ecuador,218,Country/Area,931,1975-1980,   77
+French Guiana,254,Country/Area,931,1975-1980,   42
+Guyana,328,Country/Area,931,1975-1980,   54
+Paraguay,600,Country/Area,931,1975-1980,   53
+Peru,604,Country/Area,931,1975-1980,   95
+Suriname,740,Country/Area,931,1975-1980,   50
+Uruguay,858,Country/Area,931,1975-1980,   42
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1975-1980,   39
+Australia,36,Country/Area,927,1975-1980,   12
+New Zealand,554,Country/Area,927,1975-1980,   14
+Fiji,242,Country/Area,928,1975-1980,   39
+New Caledonia,540,Country/Area,928,1975-1980,   44
+Papua New Guinea,598,Country/Area,928,1975-1980,   82
+Solomon Islands,90,Country/Area,928,1975-1980,   48
+Vanuatu,548,Country/Area,928,1975-1980,   58
+Guam,316,Country/Area,954,1975-1980,   34
+Kiribati,296,Country/Area,954,1975-1980,   88
+Micronesia (Fed. States of),583,Country/Area,954,1975-1980,   48
+French Polynesia,258,Country/Area,957,1975-1980,   59
+Samoa,882,Country/Area,957,1975-1980,   47
+Tonga,776,Country/Area,957,1975-1980,   27
+Belarus,112,Country/Area,923,1975-1980,   22
+Bulgaria,100,Country/Area,923,1975-1980,   22
+Czechia,203,Country/Area,923,1975-1980,   17
+Hungary,348,Country/Area,923,1975-1980,   26
+Poland,616,Country/Area,923,1975-1980,   27
+Republic of Moldova,498,Country/Area,923,1975-1980,   46
+Romania,642,Country/Area,923,1975-1980,   31
+Russian Federation,643,Country/Area,923,1975-1980,   29
+Slovakia,703,Country/Area,923,1975-1980,   22
+Ukraine,804,Country/Area,923,1975-1980,   23
+Channel Islands,830,Country/Area,924,1975-1980,   21
+Denmark,208,Country/Area,924,1975-1980,   9
+Estonia,233,Country/Area,924,1975-1980,   22
+Finland,246,Country/Area,924,1975-1980,   9
+Iceland,352,Country/Area,924,1975-1980,   9
+Ireland,372,Country/Area,924,1975-1980,   15
+Latvia,428,Country/Area,924,1975-1980,   23
+Lithuania,440,Country/Area,924,1975-1980,   22
+Norway,578,Country/Area,924,1975-1980,   9
+Sweden,752,Country/Area,924,1975-1980,   8
+United Kingdom,826,Country/Area,924,1975-1980,   14
+Albania,8,Country/Area,925,1975-1980,   47
+Bosnia and Herzegovina,70,Country/Area,925,1975-1980,   34
+Croatia,191,Country/Area,925,1975-1980,   22
+Greece,300,Country/Area,925,1975-1980,   21
+Italy,380,Country/Area,925,1975-1980,   17
+Malta,470,Country/Area,925,1975-1980,   15
+Montenegro,499,Country/Area,925,1975-1980,   29
+North Macedonia,807,Country/Area,925,1975-1980,   62
+Portugal,620,Country/Area,925,1975-1980,   30
+Serbia,688,Country/Area,925,1975-1980,   40
+Slovenia,705,Country/Area,925,1975-1980,   14
+Spain,724,Country/Area,925,1975-1980,   15
+Austria,40,Country/Area,926,1975-1980,   16
+Belgium,56,Country/Area,926,1975-1980,   14
+France,250,Country/Area,926,1975-1980,   12
+Germany,276,Country/Area,926,1975-1980,   16
+Luxembourg,442,Country/Area,926,1975-1980,   13
+Netherlands,528,Country/Area,926,1975-1980,   9
+Switzerland,756,Country/Area,926,1975-1980,   10
+Canada,124,Country/Area,918,1975-1980,   12
+United States of America,840,Country/Area,918,1975-1980,   14
+Burundi,108,Country/Area,910,1980-1985,   117
+Comoros,174,Country/Area,910,1980-1985,   109
+Djibouti,262,Country/Area,910,1980-1985,   87
+Eritrea,232,Country/Area,910,1980-1985,   121
+Ethiopia,231,Country/Area,910,1980-1985,   140
+Kenya,404,Country/Area,910,1980-1985,   76
+Madagascar,450,Country/Area,910,1980-1985,   109
+Malawi,454,Country/Area,910,1980-1985,   148
+Mauritius,480,Country/Area,910,1980-1985,   26
+Mayotte,175,Country/Area,910,1980-1985,   25
+Mozambique,508,Country/Area,910,1980-1985,   150
+Réunion,638,Country/Area,910,1980-1985,   25
+Rwanda,646,Country/Area,910,1980-1985,   114
+Seychelles,690,Country/Area,910,1980-1985,   21
+Somalia,706,Country/Area,910,1980-1985,   128
+South Sudan,728,Country/Area,910,1980-1985,   164
+Uganda,800,Country/Area,910,1980-1985,   117
+United Republic of Tanzania,834,Country/Area,910,1980-1985,   113
+Zambia,894,Country/Area,910,1980-1985,   105
+Zimbabwe,716,Country/Area,910,1980-1985,   65
+Angola,24,Country/Area,911,1980-1985,   149
+Cameroon,120,Country/Area,911,1980-1985,   104
+Central African Republic,140,Country/Area,911,1980-1985,   113
+Chad,148,Country/Area,911,1980-1985,   130
+Congo,178,Country/Area,911,1980-1985,   67
+Democratic Republic of the Congo,180,Country/Area,911,1980-1985,   121
+Equatorial Guinea,226,Country/Area,911,1980-1985,   131
+Gabon,266,Country/Area,911,1980-1985,   83
+Sao Tome and Principe,678,Country/Area,911,1980-1985,   71
+Botswana,72,Country/Area,913,1980-1985,   44
+Eswatini,748,Country/Area,913,1980-1985,   69
+Lesotho,426,Country/Area,913,1980-1985,   74
+Namibia,516,Country/Area,913,1980-1985,   69
+South Africa,710,Country/Area,913,1980-1985,   56
+Benin,204,Country/Area,914,1980-1985,   124
+Burkina Faso,854,Country/Area,914,1980-1985,   119
+Cabo Verde,132,Country/Area,914,1980-1985,   62
+Côte d'Ivoire,384,Country/Area,914,1980-1985,   105
+Gambia,270,Country/Area,914,1980-1985,   90
+Ghana,288,Country/Area,914,1980-1985,   93
+Guinea,324,Country/Area,914,1980-1985,   156
+Guinea-Bissau,624,Country/Area,914,1980-1985,   134
+Liberia,430,Country/Area,914,1980-1985,   139
+Mali,466,Country/Area,914,1980-1985,   151
+Mauritania,478,Country/Area,914,1980-1985,   87
+Niger,562,Country/Area,914,1980-1985,   133
+Nigeria,566,Country/Area,914,1980-1985,   125
+Senegal,686,Country/Area,914,1980-1985,   85
+Sierra Leone,694,Country/Area,914,1980-1985,   171
+Togo,768,Country/Area,914,1980-1985,   92
+Algeria,12,Country/Area,912,1980-1985,   75
+Egypt,818,Country/Area,912,1980-1985,   107
+Libya,434,Country/Area,912,1980-1985,   51
+Morocco,504,Country/Area,912,1980-1985,   84
+Sudan,729,Country/Area,912,1980-1985,   87
+Tunisia,788,Country/Area,912,1980-1985,   66
+Western Sahara,732,Country/Area,912,1980-1985,   110
+Armenia,51,Country/Area,922,1980-1985,   53
+Azerbaijan,31,Country/Area,922,1980-1985,   90
+Bahrain,48,Country/Area,922,1980-1985,   23
+Cyprus,196,Country/Area,922,1980-1985,   15
+Georgia,268,Country/Area,922,1980-1985,   47
+Iraq,368,Country/Area,922,1980-1985,   51
+Israel,376,Country/Area,922,1980-1985,   14
+Jordan,400,Country/Area,922,1980-1985,   43
+Kuwait,414,Country/Area,922,1980-1985,   23
+Lebanon,422,Country/Area,922,1980-1985,   35
+Oman,512,Country/Area,922,1980-1985,   59
+Qatar,634,Country/Area,922,1980-1985,   27
+Saudi Arabia,682,Country/Area,922,1980-1985,   59
+State of Palestine,275,Country/Area,922,1980-1985,   52
+Syrian Arab Republic,760,Country/Area,922,1980-1985,   43
+Turkey,792,Country/Area,922,1980-1985,   95
+United Arab Emirates,784,Country/Area,922,1980-1985,   24
+Yemen,887,Country/Area,922,1980-1985,   121
+Kazakhstan,398,Country/Area,5500,1980-1985,   60
+Kyrgyzstan,417,Country/Area,5500,1980-1985,   80
+Tajikistan,762,Country/Area,5500,1980-1985,   93
+Turkmenistan,795,Country/Area,5500,1980-1985,   91
+Uzbekistan,860,Country/Area,5500,1980-1985,   71
+Afghanistan,4,Country/Area,5501,1980-1985,   150
+Bangladesh,50,Country/Area,5501,1980-1985,   124
+Bhutan,64,Country/Area,5501,1980-1985,   110
+India,356,Country/Area,5501,1980-1985,   106
+Iran (Islamic Republic of),364,Country/Area,5501,1980-1985,   71
+Maldives,462,Country/Area,5501,1980-1985,   95
+Nepal,524,Country/Area,5501,1980-1985,   129
+Pakistan,586,Country/Area,5501,1980-1985,   119
+Sri Lanka,144,Country/Area,5501,1980-1985,   29
+China,156,Country/Area,906,1980-1985,   45
+"China, Hong Kong SAR",344,Country/Area,906,1980-1985,   9
+"China, Macao SAR",446,Country/Area,906,1980-1985,   15
+"China, Taiwan Province of China",158,Country/Area,906,1980-1985,   8
+Dem. People's Republic of Korea,408,Country/Area,906,1980-1985,   31
+Japan,392,Country/Area,906,1980-1985,   6
+Mongolia,496,Country/Area,906,1980-1985,   102
+Republic of Korea,410,Country/Area,906,1980-1985,   25
+Brunei Darussalam,96,Country/Area,920,1980-1985,   13
+Cambodia,116,Country/Area,920,1980-1985,   152
+Indonesia,360,Country/Area,920,1980-1985,   79
+Lao People's Democratic Republic,418,Country/Area,920,1980-1985,   122
+Malaysia,458,Country/Area,920,1980-1985,   21
+Myanmar,104,Country/Area,920,1980-1985,   90
+Philippines,608,Country/Area,920,1980-1985,   52
+Singapore,702,Country/Area,920,1980-1985,   9
+Thailand,764,Country/Area,920,1980-1985,   42
+Timor-Leste,626,Country/Area,920,1980-1985,   183
+Viet Nam,704,Country/Area,920,1980-1985,   41
+Antigua and Barbuda,28,Country/Area,915,1980-1985,   34
+Aruba,533,Country/Area,915,1980-1985,   20
+Bahamas,44,Country/Area,915,1980-1985,   24
+Barbados,52,Country/Area,915,1980-1985,   20
+Cuba,192,Country/Area,915,1980-1985,   18
+Curaçao,531,Country/Area,915,1980-1985,   18
+Dominican Republic,214,Country/Area,915,1980-1985,   75
+Grenada,308,Country/Area,915,1980-1985,   21
+Guadeloupe,312,Country/Area,915,1980-1985,   21
+Haiti,332,Country/Area,915,1980-1985,   120
+Jamaica,388,Country/Area,915,1980-1985,   31
+Martinique,474,Country/Area,915,1980-1985,   22
+Puerto Rico,630,Country/Area,915,1980-1985,   17
+Saint Lucia,662,Country/Area,915,1980-1985,   23
+Saint Vincent and the Grenadines,670,Country/Area,915,1980-1985,   34
+Trinidad and Tobago,780,Country/Area,915,1980-1985,   32
+United States Virgin Islands,850,Country/Area,915,1980-1985,   22
+Belize,84,Country/Area,916,1980-1985,   40
+Costa Rica,188,Country/Area,916,1980-1985,   23
+El Salvador,222,Country/Area,916,1980-1985,   80
+Guatemala,320,Country/Area,916,1980-1985,   82
+Honduras,340,Country/Area,916,1980-1985,   65
+Mexico,484,Country/Area,916,1980-1985,   47
+Nicaragua,558,Country/Area,916,1980-1985,   80
+Panama,591,Country/Area,916,1980-1985,   34
+Argentina,32,Country/Area,931,1980-1985,   32
+Bolivia (Plurinational State of),68,Country/Area,931,1980-1985,   114
+Brazil,76,Country/Area,931,1980-1985,   72
+Chile,152,Country/Area,931,1980-1985,   25
+Colombia,170,Country/Area,931,1980-1985,   38
+Ecuador,218,Country/Area,931,1980-1985,   63
+French Guiana,254,Country/Area,931,1980-1985,   32
+Guyana,328,Country/Area,931,1980-1985,   52
+Paraguay,600,Country/Area,931,1980-1985,   47
+Peru,604,Country/Area,931,1980-1985,   80
+Suriname,740,Country/Area,931,1980-1985,   48
+Uruguay,858,Country/Area,931,1980-1985,   33
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1980-1985,   32
+Australia,36,Country/Area,927,1980-1985,   10
+New Zealand,554,Country/Area,927,1980-1985,   12
+Fiji,242,Country/Area,928,1980-1985,   32
+New Caledonia,540,Country/Area,928,1980-1985,   36
+Papua New Guinea,598,Country/Area,928,1980-1985,   74
+Solomon Islands,90,Country/Area,928,1980-1985,   38
+Vanuatu,548,Country/Area,928,1980-1985,   45
+Guam,316,Country/Area,954,1980-1985,   29
+Kiribati,296,Country/Area,954,1980-1985,   86
+Micronesia (Fed. States of),583,Country/Area,954,1980-1985,   45
+French Polynesia,258,Country/Area,957,1980-1985,   35
+Samoa,882,Country/Area,957,1980-1985,   35
+Tonga,776,Country/Area,957,1980-1985,   23
+Belarus,112,Country/Area,923,1980-1985,   20
+Bulgaria,100,Country/Area,923,1980-1985,   17
+Czechia,203,Country/Area,923,1980-1985,   14
+Hungary,348,Country/Area,923,1980-1985,   20
+Poland,616,Country/Area,923,1980-1985,   24
+Republic of Moldova,498,Country/Area,923,1980-1985,   36
+Romania,642,Country/Area,923,1980-1985,   26
+Russian Federation,643,Country/Area,923,1980-1985,   26
+Slovakia,703,Country/Area,923,1980-1985,   18
+Ukraine,804,Country/Area,923,1980-1985,   20
+Channel Islands,830,Country/Area,924,1980-1985,   18
+Denmark,208,Country/Area,924,1980-1985,   8
+Estonia,233,Country/Area,924,1980-1985,   20
+Finland,246,Country/Area,924,1980-1985,   6
+Iceland,352,Country/Area,924,1980-1985,   6
+Ireland,372,Country/Area,924,1980-1985,   10
+Latvia,428,Country/Area,924,1980-1985,   18
+Lithuania,440,Country/Area,924,1980-1985,   18
+Norway,578,Country/Area,924,1980-1985,   8
+Sweden,752,Country/Area,924,1980-1985,   7
+United Kingdom,826,Country/Area,924,1980-1985,   11
+Albania,8,Country/Area,925,1980-1985,   43
+Bosnia and Herzegovina,70,Country/Area,925,1980-1985,   26
+Croatia,191,Country/Area,925,1980-1985,   18
+Greece,300,Country/Area,925,1980-1985,   15
+Italy,380,Country/Area,925,1980-1985,   12
+Malta,470,Country/Area,925,1980-1985,   12
+Montenegro,499,Country/Area,925,1980-1985,   26
+North Macedonia,807,Country/Area,925,1980-1985,   52
+Portugal,620,Country/Area,925,1980-1985,   20
+Serbia,688,Country/Area,925,1980-1985,   35
+Slovenia,705,Country/Area,925,1980-1985,   13
+Spain,724,Country/Area,925,1980-1985,   11
+Austria,40,Country/Area,926,1980-1985,   12
+Belgium,56,Country/Area,926,1980-1985,   11
+France,250,Country/Area,926,1980-1985,   9
+Germany,276,Country/Area,926,1980-1985,   11
+Luxembourg,442,Country/Area,926,1980-1985,   12
+Netherlands,528,Country/Area,926,1980-1985,   8
+Switzerland,756,Country/Area,926,1980-1985,   8
+Canada,124,Country/Area,918,1980-1985,   9
+United States of America,840,Country/Area,918,1980-1985,   11
+Burundi,108,Country/Area,910,1985-1990,   104
+Comoros,174,Country/Area,910,1985-1990,   93
+Djibouti,262,Country/Area,910,1985-1990,   81
+Eritrea,232,Country/Area,910,1985-1990,   112
+Ethiopia,231,Country/Area,910,1985-1990,   126
+Kenya,404,Country/Area,910,1985-1990,   74
+Madagascar,450,Country/Area,910,1985-1990,   108
+Malawi,454,Country/Area,910,1985-1990,   141
+Mauritius,480,Country/Area,910,1985-1990,   23
+Mayotte,175,Country/Area,910,1985-1990,   19
+Mozambique,508,Country/Area,910,1985-1990,   145
+Réunion,638,Country/Area,910,1985-1990,   19
+Rwanda,646,Country/Area,910,1985-1990,   120
+Seychelles,690,Country/Area,910,1985-1990,   16
+Somalia,706,Country/Area,910,1985-1990,   123
+South Sudan,728,Country/Area,910,1985-1990,   150
+Uganda,800,Country/Area,910,1985-1990,   116
+United Republic of Tanzania,834,Country/Area,910,1985-1990,   109
+Zambia,894,Country/Area,910,1985-1990,   116
+Zimbabwe,716,Country/Area,910,1985-1990,   55
+Angola,24,Country/Area,911,1985-1990,   145
+Cameroon,120,Country/Area,911,1985-1990,   100
+Central African Republic,140,Country/Area,911,1985-1990,   111
+Chad,148,Country/Area,911,1985-1990,   123
+Congo,178,Country/Area,911,1985-1990,   60
+Democratic Republic of the Congo,180,Country/Area,911,1985-1990,   116
+Equatorial Guinea,226,Country/Area,911,1985-1990,   125
+Gabon,266,Country/Area,911,1985-1990,   67
+Sao Tome and Principe,678,Country/Area,911,1985-1990,   77
+Botswana,72,Country/Area,913,1985-1990,   36
+Eswatini,748,Country/Area,913,1985-1990,   53
+Lesotho,426,Country/Area,913,1985-1990,   64
+Namibia,516,Country/Area,913,1985-1990,   55
+South Africa,710,Country/Area,913,1985-1990,   46
+Benin,204,Country/Area,914,1985-1990,   114
+Burkina Faso,854,Country/Area,914,1985-1990,   110
+Cabo Verde,132,Country/Area,914,1985-1990,   54
+Côte d'Ivoire,384,Country/Area,914,1985-1990,   102
+Gambia,270,Country/Area,914,1985-1990,   82
+Ghana,288,Country/Area,914,1985-1990,   83
+Guinea,324,Country/Area,914,1985-1990,   142
+Guinea-Bissau,624,Country/Area,914,1985-1990,   130
+Liberia,430,Country/Area,914,1985-1990,   149
+Mali,466,Country/Area,914,1985-1990,   139
+Mauritania,478,Country/Area,914,1985-1990,   76
+Niger,562,Country/Area,914,1985-1990,   139
+Nigeria,566,Country/Area,914,1985-1990,   126
+Senegal,686,Country/Area,914,1985-1990,   75
+Sierra Leone,694,Country/Area,914,1985-1990,   166
+Togo,768,Country/Area,914,1985-1990,   87
+Algeria,12,Country/Area,912,1985-1990,   55
+Egypt,818,Country/Area,912,1985-1990,   74
+Libya,434,Country/Area,912,1985-1990,   41
+Morocco,504,Country/Area,912,1985-1990,   67
+Sudan,729,Country/Area,912,1985-1990,   84
+Tunisia,788,Country/Area,912,1985-1990,   49
+Western Sahara,732,Country/Area,912,1985-1990,   88
+Armenia,51,Country/Area,922,1985-1990,   48
+Azerbaijan,31,Country/Area,922,1985-1990,   85
+Bahrain,48,Country/Area,922,1985-1990,   18
+Cyprus,196,Country/Area,922,1985-1990,   12
+Georgia,268,Country/Area,922,1985-1990,   44
+Iraq,368,Country/Area,922,1985-1990,   44
+Israel,376,Country/Area,922,1985-1990,   11
+Jordan,400,Country/Area,922,1985-1990,   34
+Kuwait,414,Country/Area,922,1985-1990,   17
+Lebanon,422,Country/Area,922,1985-1990,   30
+Oman,512,Country/Area,922,1985-1990,   42
+Qatar,634,Country/Area,922,1985-1990,   21
+Saudi Arabia,682,Country/Area,922,1985-1990,   43
+State of Palestine,275,Country/Area,922,1985-1990,   41
+Syrian Arab Republic,760,Country/Area,922,1985-1990,   33
+Turkey,792,Country/Area,922,1985-1990,   73
+United Arab Emirates,784,Country/Area,922,1985-1990,   17
+Yemen,887,Country/Area,922,1985-1990,   96
+Kazakhstan,398,Country/Area,5500,1985-1990,   52
+Kyrgyzstan,417,Country/Area,5500,1985-1990,   70
+Tajikistan,762,Country/Area,5500,1985-1990,   80
+Turkmenistan,795,Country/Area,5500,1985-1990,   81
+Uzbekistan,860,Country/Area,5500,1985-1990,   65
+Afghanistan,4,Country/Area,5501,1985-1990,   129
+Bangladesh,50,Country/Area,5501,1985-1990,   107
+Bhutan,64,Country/Area,5501,1985-1990,   92
+India,356,Country/Area,5501,1985-1990,   93
+Iran (Islamic Republic of),364,Country/Area,5501,1985-1990,   50
+Maldives,462,Country/Area,5501,1985-1990,   76
+Nepal,524,Country/Area,5501,1985-1990,   109
+Pakistan,586,Country/Area,5501,1985-1990,   110
+Sri Lanka,144,Country/Area,5501,1985-1990,   24
+China,156,Country/Area,906,1985-1990,   42
+"China, Hong Kong SAR",344,Country/Area,906,1985-1990,   7
+"China, Macao SAR",446,Country/Area,906,1985-1990,   11
+"China, Taiwan Province of China",158,Country/Area,906,1985-1990,   6
+Dem. People's Republic of Korea,408,Country/Area,906,1985-1990,   27
+Japan,392,Country/Area,906,1985-1990,   5
+Mongolia,496,Country/Area,906,1985-1990,   92
+Republic of Korea,410,Country/Area,906,1985-1990,   16
+Brunei Darussalam,96,Country/Area,920,1985-1990,   11
+Cambodia,116,Country/Area,920,1985-1990,   86
+Indonesia,360,Country/Area,920,1985-1990,   68
+Lao People's Democratic Republic,418,Country/Area,920,1985-1990,   108
+Malaysia,458,Country/Area,920,1985-1990,   16
+Myanmar,104,Country/Area,920,1985-1990,   81
+Philippines,608,Country/Area,920,1985-1990,   45
+Singapore,702,Country/Area,920,1985-1990,   5
+Thailand,764,Country/Area,920,1985-1990,   33
+Timor-Leste,626,Country/Area,920,1985-1990,   141
+Viet Nam,704,Country/Area,920,1985-1990,   37
+Antigua and Barbuda,28,Country/Area,915,1985-1990,   28
+Aruba,533,Country/Area,915,1985-1990,   19
+Bahamas,44,Country/Area,915,1985-1990,   21
+Barbados,52,Country/Area,915,1985-1990,   17
+Cuba,192,Country/Area,915,1985-1990,   13
+Curaçao,531,Country/Area,915,1985-1990,   17
+Dominican Republic,214,Country/Area,915,1985-1990,   63
+Grenada,308,Country/Area,915,1985-1990,   19
+Guadeloupe,312,Country/Area,915,1985-1990,   17
+Haiti,332,Country/Area,915,1985-1990,   105
+Jamaica,388,Country/Area,915,1985-1990,   27
+Martinique,474,Country/Area,915,1985-1990,   17
+Puerto Rico,630,Country/Area,915,1985-1990,   14
+Saint Lucia,662,Country/Area,915,1985-1990,   20
+Saint Vincent and the Grenadines,670,Country/Area,915,1985-1990,   23
+Trinidad and Tobago,780,Country/Area,915,1985-1990,   30
+United States Virgin Islands,850,Country/Area,915,1985-1990,   18
+Belize,84,Country/Area,916,1985-1990,   35
+Costa Rica,188,Country/Area,916,1985-1990,   17
+El Salvador,222,Country/Area,916,1985-1990,   61
+Guatemala,320,Country/Area,916,1985-1990,   68
+Honduras,340,Country/Area,916,1985-1990,   53
+Mexico,484,Country/Area,916,1985-1990,   39
+Nicaragua,558,Country/Area,916,1985-1990,   65
+Panama,591,Country/Area,916,1985-1990,   30
+Argentina,32,Country/Area,931,1985-1990,   27
+Bolivia (Plurinational State of),68,Country/Area,931,1985-1990,   99
+Brazil,76,Country/Area,931,1985-1990,   55
+Chile,152,Country/Area,931,1985-1990,   18
+Colombia,170,Country/Area,931,1985-1990,   31
+Ecuador,218,Country/Area,931,1985-1990,   51
+French Guiana,254,Country/Area,931,1985-1990,   25
+Guyana,328,Country/Area,931,1985-1990,   50
+Paraguay,600,Country/Area,931,1985-1990,   40
+Peru,604,Country/Area,931,1985-1990,   67
+Suriname,740,Country/Area,931,1985-1990,   44
+Uruguay,858,Country/Area,931,1985-1990,   23
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1985-1990,   27
+Australia,36,Country/Area,927,1985-1990,   9
+New Zealand,554,Country/Area,927,1985-1990,   10
+Fiji,242,Country/Area,928,1985-1990,   26
+New Caledonia,540,Country/Area,928,1985-1990,   29
+Papua New Guinea,598,Country/Area,928,1985-1990,   68
+Solomon Islands,90,Country/Area,928,1985-1990,   33
+Vanuatu,548,Country/Area,928,1985-1990,   33
+Guam,316,Country/Area,954,1985-1990,   24
+Kiribati,296,Country/Area,954,1985-1990,   78
+Micronesia (Fed. States of),583,Country/Area,954,1985-1990,   44
+French Polynesia,258,Country/Area,957,1985-1990,   20
+Samoa,882,Country/Area,957,1985-1990,   27
+Tonga,776,Country/Area,957,1985-1990,   20
+Belarus,112,Country/Area,923,1985-1990,   16
+Bulgaria,100,Country/Area,923,1985-1990,   14
+Czechia,203,Country/Area,923,1985-1990,   11
+Hungary,348,Country/Area,923,1985-1990,   17
+Poland,616,Country/Area,923,1985-1990,   20
+Republic of Moldova,498,Country/Area,923,1985-1990,   31
+Romania,642,Country/Area,923,1985-1990,   26
+Russian Federation,643,Country/Area,923,1985-1990,   24
+Slovakia,703,Country/Area,923,1985-1990,   14
+Ukraine,804,Country/Area,923,1985-1990,   18
+Channel Islands,830,Country/Area,924,1985-1990,   16
+Denmark,208,Country/Area,924,1985-1990,   8
+Estonia,233,Country/Area,924,1985-1990,   18
+Finland,246,Country/Area,924,1985-1990,   6
+Iceland,352,Country/Area,924,1985-1990,   6
+Ireland,372,Country/Area,924,1985-1990,   8
+Latvia,428,Country/Area,924,1985-1990,   15
+Lithuania,440,Country/Area,924,1985-1990,   15
+Norway,578,Country/Area,924,1985-1990,   8
+Sweden,752,Country/Area,924,1985-1990,   6
+United Kingdom,826,Country/Area,924,1985-1990,   9
+Albania,8,Country/Area,925,1985-1990,   38
+Bosnia and Herzegovina,70,Country/Area,925,1985-1990,   18
+Croatia,191,Country/Area,925,1985-1990,   14
+Greece,300,Country/Area,925,1985-1990,   12
+Italy,380,Country/Area,925,1985-1990,   9
+Malta,470,Country/Area,925,1985-1990,   10
+Montenegro,499,Country/Area,925,1985-1990,   21
+North Macedonia,807,Country/Area,925,1985-1990,   40
+Portugal,620,Country/Area,925,1985-1990,   14
+Serbia,688,Country/Area,925,1985-1990,   22
+Slovenia,705,Country/Area,925,1985-1990,   10
+Spain,724,Country/Area,925,1985-1990,   8
+Austria,40,Country/Area,926,1985-1990,   9
+Belgium,56,Country/Area,926,1985-1990,   9
+France,250,Country/Area,926,1985-1990,   8
+Germany,276,Country/Area,926,1985-1990,   8
+Luxembourg,442,Country/Area,926,1985-1990,   9
+Netherlands,528,Country/Area,926,1985-1990,   7
+Switzerland,756,Country/Area,926,1985-1990,   7
+Canada,124,Country/Area,918,1985-1990,   7
+United States of America,840,Country/Area,918,1985-1990,   10
+Burundi,108,Country/Area,910,1990-1995,   111
+Comoros,174,Country/Area,910,1990-1995,   81
+Djibouti,262,Country/Area,910,1990-1995,   76
+Eritrea,232,Country/Area,910,1990-1995,   94
+Ethiopia,231,Country/Area,910,1990-1995,   114
+Kenya,404,Country/Area,910,1990-1995,   74
+Madagascar,450,Country/Area,910,1990-1995,   100
+Malawi,454,Country/Area,910,1990-1995,   127
+Mauritius,480,Country/Area,910,1990-1995,   18
+Mayotte,175,Country/Area,910,1990-1995,   14
+Mozambique,508,Country/Area,910,1990-1995,   138
+Réunion,638,Country/Area,910,1990-1995,   14
+Rwanda,646,Country/Area,910,1990-1995,   196
+Seychelles,690,Country/Area,910,1990-1995,   13
+Somalia,706,Country/Area,910,1990-1995,   129
+South Sudan,728,Country/Area,910,1990-1995,   130
+Uganda,800,Country/Area,910,1990-1995,   105
+United Republic of Tanzania,834,Country/Area,910,1990-1995,   105
+Zambia,894,Country/Area,910,1990-1995,   117
+Zimbabwe,716,Country/Area,910,1990-1995,   62
+Angola,24,Country/Area,911,1990-1995,   145
+Cameroon,120,Country/Area,911,1990-1995,   103
+Central African Republic,140,Country/Area,911,1990-1995,   111
+Chad,148,Country/Area,911,1990-1995,   119
+Congo,178,Country/Area,911,1990-1995,   64
+Democratic Republic of the Congo,180,Country/Area,911,1990-1995,   110
+Equatorial Guinea,226,Country/Area,911,1990-1995,   116
+Gabon,266,Country/Area,911,1990-1995,   64
+Sao Tome and Principe,678,Country/Area,911,1990-1995,   79
+Botswana,72,Country/Area,913,1990-1995,   42
+Eswatini,748,Country/Area,913,1990-1995,   54
+Lesotho,426,Country/Area,913,1990-1995,   63
+Namibia,516,Country/Area,913,1990-1995,   50
+South Africa,710,Country/Area,913,1990-1995,   41
+Benin,204,Country/Area,914,1990-1995,   102
+Burkina Faso,854,Country/Area,914,1990-1995,   104
+Cabo Verde,132,Country/Area,914,1990-1995,   47
+Côte d'Ivoire,384,Country/Area,914,1990-1995,   100
+Gambia,270,Country/Area,914,1990-1995,   76
+Ghana,288,Country/Area,914,1990-1995,   72
+Guinea,324,Country/Area,914,1990-1995,   128
+Guinea-Bissau,624,Country/Area,914,1990-1995,   125
+Liberia,430,Country/Area,914,1990-1995,   156
+Mali,466,Country/Area,914,1990-1995,   127
+Mauritania,478,Country/Area,914,1990-1995,   70
+Niger,562,Country/Area,914,1990-1995,   130
+Nigeria,566,Country/Area,914,1990-1995,   126
+Senegal,686,Country/Area,914,1990-1995,   72
+Sierra Leone,694,Country/Area,914,1990-1995,   163
+Togo,768,Country/Area,914,1990-1995,   83
+Algeria,12,Country/Area,912,1990-1995,   43
+Egypt,818,Country/Area,912,1990-1995,   60
+Libya,434,Country/Area,912,1990-1995,   33
+Morocco,504,Country/Area,912,1990-1995,   53
+Sudan,729,Country/Area,912,1990-1995,   80
+Tunisia,788,Country/Area,912,1990-1995,   35
+Western Sahara,732,Country/Area,912,1990-1995,   76
+Armenia,51,Country/Area,922,1990-1995,   44
+Azerbaijan,31,Country/Area,922,1990-1995,   82
+Bahrain,48,Country/Area,922,1990-1995,   15
+Cyprus,196,Country/Area,922,1990-1995,   9
+Georgia,268,Country/Area,922,1990-1995,   45
+Iraq,368,Country/Area,922,1990-1995,   38
+Israel,376,Country/Area,922,1990-1995,   8
+Jordan,400,Country/Area,922,1990-1995,   29
+Kuwait,414,Country/Area,922,1990-1995,   13
+Lebanon,422,Country/Area,922,1990-1995,   25
+Oman,512,Country/Area,922,1990-1995,   31
+Qatar,634,Country/Area,922,1990-1995,   15
+Saudi Arabia,682,Country/Area,922,1990-1995,   30
+State of Palestine,275,Country/Area,922,1990-1995,   33
+Syrian Arab Republic,760,Country/Area,922,1990-1995,   26
+Turkey,792,Country/Area,922,1990-1995,   56
+United Arab Emirates,784,Country/Area,922,1990-1995,   13
+Yemen,887,Country/Area,922,1990-1995,   84
+Kazakhstan,398,Country/Area,5500,1990-1995,   51
+Kyrgyzstan,417,Country/Area,5500,1990-1995,   60
+Tajikistan,762,Country/Area,5500,1990-1995,   84
+Turkmenistan,795,Country/Area,5500,1990-1995,   75
+Uzbekistan,860,Country/Area,5500,1990-1995,   59
+Afghanistan,4,Country/Area,5501,1990-1995,   110
+Bangladesh,50,Country/Area,5501,1990-1995,   88
+Bhutan,64,Country/Area,5501,1990-1995,   76
+India,356,Country/Area,5501,1990-1995,   82
+Iran (Islamic Republic of),364,Country/Area,5501,1990-1995,   39
+Maldives,462,Country/Area,5501,1990-1995,   60
+Nepal,524,Country/Area,5501,1990-1995,   87
+Pakistan,586,Country/Area,5501,1990-1995,   101
+Sri Lanka,144,Country/Area,5501,1990-1995,   20
+China,156,Country/Area,906,1990-1995,   41
+"China, Hong Kong SAR",344,Country/Area,906,1990-1995,   5
+"China, Macao SAR",446,Country/Area,906,1990-1995,   9
+"China, Taiwan Province of China",158,Country/Area,906,1990-1995,   5
+Dem. People's Republic of Korea,408,Country/Area,906,1990-1995,   42
+Japan,392,Country/Area,906,1990-1995,   4
+Mongolia,496,Country/Area,906,1990-1995,   68
+Republic of Korea,410,Country/Area,906,1990-1995,   10
+Brunei Darussalam,96,Country/Area,920,1990-1995,   11
+Cambodia,116,Country/Area,920,1990-1995,   86
+Indonesia,360,Country/Area,920,1990-1995,   56
+Lao People's Democratic Republic,418,Country/Area,920,1990-1995,   98
+Malaysia,458,Country/Area,920,1990-1995,   12
+Myanmar,104,Country/Area,920,1990-1995,   73
+Philippines,608,Country/Area,920,1990-1995,   36
+Singapore,702,Country/Area,920,1990-1995,   5
+Thailand,764,Country/Area,920,1990-1995,   26
+Timor-Leste,626,Country/Area,920,1990-1995,   118
+Viet Nam,704,Country/Area,920,1990-1995,   34
+Antigua and Barbuda,28,Country/Area,915,1990-1995,   21
+Aruba,533,Country/Area,915,1990-1995,   19
+Bahamas,44,Country/Area,915,1990-1995,   17
+Barbados,52,Country/Area,915,1990-1995,   13
+Cuba,192,Country/Area,915,1990-1995,   10
+Curaçao,531,Country/Area,915,1990-1995,   15
+Dominican Republic,214,Country/Area,915,1990-1995,   50
+Grenada,308,Country/Area,915,1990-1995,   16
+Guadeloupe,312,Country/Area,915,1990-1995,   14
+Haiti,332,Country/Area,915,1990-1995,   92
+Jamaica,388,Country/Area,915,1990-1995,   24
+Martinique,474,Country/Area,915,1990-1995,   14
+Puerto Rico,630,Country/Area,915,1990-1995,   12
+Saint Lucia,662,Country/Area,915,1990-1995,   18
+Saint Vincent and the Grenadines,670,Country/Area,915,1990-1995,   19
+Trinidad and Tobago,780,Country/Area,915,1990-1995,   28
+United States Virgin Islands,850,Country/Area,915,1990-1995,   15
+Belize,84,Country/Area,916,1990-1995,   30
+Costa Rica,188,Country/Area,916,1990-1995,   15
+El Salvador,222,Country/Area,916,1990-1995,   41
+Guatemala,320,Country/Area,916,1990-1995,   55
+Honduras,340,Country/Area,916,1990-1995,   43
+Mexico,484,Country/Area,916,1990-1995,   33
+Nicaragua,558,Country/Area,916,1990-1995,   48
+Panama,591,Country/Area,916,1990-1995,   26
+Argentina,32,Country/Area,931,1990-1995,   23
+Bolivia (Plurinational State of),68,Country/Area,931,1990-1995,   83
+Brazil,76,Country/Area,931,1990-1995,   43
+Chile,152,Country/Area,931,1990-1995,   14
+Colombia,170,Country/Area,931,1990-1995,   26
+Ecuador,218,Country/Area,931,1990-1995,   41
+French Guiana,254,Country/Area,931,1990-1995,   21
+Guyana,328,Country/Area,931,1990-1995,   45
+Paraguay,600,Country/Area,931,1990-1995,   34
+Peru,604,Country/Area,931,1990-1995,   50
+Suriname,740,Country/Area,931,1990-1995,   38
+Uruguay,858,Country/Area,931,1990-1995,   20
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1990-1995,   23
+Australia,36,Country/Area,927,1990-1995,   7
+New Zealand,554,Country/Area,927,1990-1995,   7
+Fiji,242,Country/Area,928,1990-1995,   22
+New Caledonia,540,Country/Area,928,1990-1995,   24
+Papua New Guinea,598,Country/Area,928,1990-1995,   64
+Solomon Islands,90,Country/Area,928,1990-1995,   29
+Vanuatu,548,Country/Area,928,1990-1995,   27
+Guam,316,Country/Area,954,1990-1995,   21
+Kiribati,296,Country/Area,954,1990-1995,   66
+Micronesia (Fed. States of),583,Country/Area,954,1990-1995,   43
+French Polynesia,258,Country/Area,957,1990-1995,   18
+Samoa,882,Country/Area,957,1990-1995,   23
+Tonga,776,Country/Area,957,1990-1995,   17
+Belarus,112,Country/Area,923,1990-1995,   15
+Bulgaria,100,Country/Area,923,1990-1995,   15
+Czechia,203,Country/Area,923,1990-1995,   9
+Hungary,348,Country/Area,923,1990-1995,   13
+Poland,616,Country/Area,923,1990-1995,   16
+Republic of Moldova,498,Country/Area,923,1990-1995,   29
+Romania,642,Country/Area,923,1990-1995,   23
+Russian Federation,643,Country/Area,923,1990-1995,   22
+Slovakia,703,Country/Area,923,1990-1995,   12
+Ukraine,804,Country/Area,923,1990-1995,   17
+Channel Islands,830,Country/Area,924,1990-1995,   14
+Denmark,208,Country/Area,924,1990-1995,   6
+Estonia,233,Country/Area,924,1990-1995,   16
+Finland,246,Country/Area,924,1990-1995,   5
+Iceland,352,Country/Area,924,1990-1995,   5
+Ireland,372,Country/Area,924,1990-1995,   7
+Latvia,428,Country/Area,924,1990-1995,   18
+Lithuania,440,Country/Area,924,1990-1995,   16
+Norway,578,Country/Area,924,1990-1995,   6
+Sweden,752,Country/Area,924,1990-1995,   5
+United Kingdom,826,Country/Area,924,1990-1995,   7
+Albania,8,Country/Area,925,1990-1995,   31
+Bosnia and Herzegovina,70,Country/Area,925,1990-1995,   18
+Croatia,191,Country/Area,925,1990-1995,   10
+Greece,300,Country/Area,925,1990-1995,   8
+Italy,380,Country/Area,925,1990-1995,   7
+Malta,470,Country/Area,925,1990-1995,   9
+Montenegro,499,Country/Area,925,1990-1995,   18
+North Macedonia,807,Country/Area,925,1990-1995,   27
+Portugal,620,Country/Area,925,1990-1995,   9
+Serbia,688,Country/Area,925,1990-1995,   17
+Slovenia,705,Country/Area,925,1990-1995,   7
+Spain,724,Country/Area,925,1990-1995,   7
+Austria,40,Country/Area,926,1990-1995,   7
+Belgium,56,Country/Area,926,1990-1995,   8
+France,250,Country/Area,926,1990-1995,   7
+Germany,276,Country/Area,926,1990-1995,   6
+Luxembourg,442,Country/Area,926,1990-1995,   7
+Netherlands,528,Country/Area,926,1990-1995,   6
+Switzerland,756,Country/Area,926,1990-1995,   6
+Canada,124,Country/Area,918,1990-1995,   6
+United States of America,840,Country/Area,918,1990-1995,   9
+Burundi,108,Country/Area,910,1995-2000,   103
+Comoros,174,Country/Area,910,1995-2000,   74
+Djibouti,262,Country/Area,910,1995-2000,   72
+Eritrea,232,Country/Area,910,1995-2000,   71
+Ethiopia,231,Country/Area,910,1995-2000,   97
+Kenya,404,Country/Area,910,1995-2000,   71
+Madagascar,450,Country/Area,910,1995-2000,   78
+Malawi,454,Country/Area,910,1995-2000,   106
+Mauritius,480,Country/Area,910,1995-2000,   20
+Mayotte,175,Country/Area,910,1995-2000,   10
+Mozambique,508,Country/Area,910,1995-2000,   121
+Réunion,638,Country/Area,910,1995-2000,   10
+Rwanda,646,Country/Area,910,1995-2000,   122
+Seychelles,690,Country/Area,910,1995-2000,   12
+Somalia,706,Country/Area,910,1995-2000,   105
+South Sudan,728,Country/Area,910,1995-2000,   114
+Uganda,800,Country/Area,910,1995-2000,   94
+United Republic of Tanzania,834,Country/Area,910,1995-2000,   94
+Zambia,894,Country/Area,910,1995-2000,   109
+Zimbabwe,716,Country/Area,910,1995-2000,   69
+Angola,24,Country/Area,911,1995-2000,   142
+Cameroon,120,Country/Area,911,1995-2000,   106
+Central African Republic,140,Country/Area,911,1995-2000,   110
+Chad,148,Country/Area,911,1995-2000,   114
+Congo,178,Country/Area,911,1995-2000,   74
+Democratic Republic of the Congo,180,Country/Area,911,1995-2000,   113
+Equatorial Guinea,226,Country/Area,911,1995-2000,   106
+Gabon,266,Country/Area,911,1995-2000,   62
+Sao Tome and Principe,678,Country/Area,911,1995-2000,   71
+Botswana,72,Country/Area,913,1995-2000,   56
+Eswatini,748,Country/Area,913,1995-2000,   76
+Lesotho,426,Country/Area,913,1995-2000,   73
+Namibia,516,Country/Area,913,1995-2000,   51
+South Africa,710,Country/Area,913,1995-2000,   47
+Benin,204,Country/Area,914,1995-2000,   93
+Burkina Faso,854,Country/Area,914,1995-2000,   99
+Cabo Verde,132,Country/Area,914,1995-2000,   37
+Côte d'Ivoire,384,Country/Area,914,1995-2000,   99
+Gambia,270,Country/Area,914,1995-2000,   67
+Ghana,288,Country/Area,914,1995-2000,   67
+Guinea,324,Country/Area,914,1995-2000,   112
+Guinea-Bissau,624,Country/Area,914,1995-2000,   115
+Liberia,430,Country/Area,914,1995-2000,   136
+Mali,466,Country/Area,914,1995-2000,   121
+Mauritania,478,Country/Area,914,1995-2000,   70
+Niger,562,Country/Area,914,1995-2000,   103
+Nigeria,566,Country/Area,914,1995-2000,   119
+Senegal,686,Country/Area,914,1995-2000,   68
+Sierra Leone,694,Country/Area,914,1995-2000,   157
+Togo,768,Country/Area,914,1995-2000,   80
+Algeria,12,Country/Area,912,1995-2000,   38
+Egypt,818,Country/Area,912,1995-2000,   37
+Libya,434,Country/Area,912,1995-2000,   26
+Morocco,504,Country/Area,912,1995-2000,   44
+Sudan,729,Country/Area,912,1995-2000,   70
+Tunisia,788,Country/Area,912,1995-2000,   29
+Western Sahara,732,Country/Area,912,1995-2000,   64
+Armenia,51,Country/Area,922,1995-2000,   35
+Azerbaijan,31,Country/Area,922,1995-2000,   64
+Bahrain,48,Country/Area,922,1995-2000,   12
+Cyprus,196,Country/Area,922,1995-2000,   7
+Georgia,268,Country/Area,922,1995-2000,   35
+Iraq,368,Country/Area,922,1995-2000,   37
+Israel,376,Country/Area,922,1995-2000,   6
+Jordan,400,Country/Area,922,1995-2000,   26
+Kuwait,414,Country/Area,922,1995-2000,   12
+Lebanon,422,Country/Area,922,1995-2000,   19
+Oman,512,Country/Area,922,1995-2000,   22
+Qatar,634,Country/Area,922,1995-2000,   12
+Saudi Arabia,682,Country/Area,922,1995-2000,   22
+State of Palestine,275,Country/Area,922,1995-2000,   27
+Syrian Arab Republic,760,Country/Area,922,1995-2000,   21
+Turkey,792,Country/Area,922,1995-2000,   37
+United Arab Emirates,784,Country/Area,922,1995-2000,   10
+Yemen,887,Country/Area,922,1995-2000,   75
+Kazakhstan,398,Country/Area,5500,1995-2000,   44
+Kyrgyzstan,417,Country/Area,5500,1995-2000,   48
+Tajikistan,762,Country/Area,5500,1995-2000,   79
+Turkmenistan,795,Country/Area,5500,1995-2000,   68
+Uzbekistan,860,Country/Area,5500,1995-2000,   55
+Afghanistan,4,Country/Area,5501,1995-2000,   96
+Bangladesh,50,Country/Area,5501,1995-2000,   70
+Bhutan,64,Country/Area,5501,1995-2000,   62
+India,356,Country/Area,5501,1995-2000,   71
+Iran (Islamic Republic of),364,Country/Area,5501,1995-2000,   32
+Maldives,462,Country/Area,5501,1995-2000,   44
+Nepal,524,Country/Area,5501,1995-2000,   68
+Pakistan,586,Country/Area,5501,1995-2000,   92
+Sri Lanka,144,Country/Area,5501,1995-2000,   16
+China,156,Country/Area,906,1995-2000,   35
+"China, Hong Kong SAR",344,Country/Area,906,1995-2000,   4
+"China, Macao SAR",446,Country/Area,906,1995-2000,   6
+"China, Taiwan Province of China",158,Country/Area,906,1995-2000,   7
+Dem. People's Republic of Korea,408,Country/Area,906,1995-2000,   58
+Japan,392,Country/Area,906,1995-2000,   4
+Mongolia,496,Country/Area,906,1995-2000,   54
+Republic of Korea,410,Country/Area,906,1995-2000,   7
+Brunei Darussalam,96,Country/Area,920,1995-2000,   10
+Cambodia,116,Country/Area,920,1995-2000,   86
+Indonesia,360,Country/Area,920,1995-2000,   45
+Lao People's Democratic Republic,418,Country/Area,920,1995-2000,   83
+Malaysia,458,Country/Area,920,1995-2000,   10
+Myanmar,104,Country/Area,920,1995-2000,   65
+Philippines,608,Country/Area,920,1995-2000,   31
+Singapore,702,Country/Area,920,1995-2000,   4
+Thailand,764,Country/Area,920,1995-2000,   21
+Timor-Leste,626,Country/Area,920,1995-2000,   90
+Viet Nam,704,Country/Area,920,1995-2000,   28
+Antigua and Barbuda,28,Country/Area,915,1995-2000,   15
+Aruba,533,Country/Area,915,1995-2000,   18
+Bahamas,44,Country/Area,915,1995-2000,   14
+Barbados,52,Country/Area,915,1995-2000,   12
+Cuba,192,Country/Area,915,1995-2000,   8
+Curaçao,531,Country/Area,915,1995-2000,   15
+Dominican Republic,214,Country/Area,915,1995-2000,   41
+Grenada,308,Country/Area,915,1995-2000,   14
+Guadeloupe,312,Country/Area,915,1995-2000,   11
+Haiti,332,Country/Area,915,1995-2000,   79
+Jamaica,388,Country/Area,915,1995-2000,   20
+Martinique,474,Country/Area,915,1995-2000,   11
+Puerto Rico,630,Country/Area,915,1995-2000,   11
+Saint Lucia,662,Country/Area,915,1995-2000,   16
+Saint Vincent and the Grenadines,670,Country/Area,915,1995-2000,   19
+Trinidad and Tobago,780,Country/Area,915,1995-2000,   29
+United States Virgin Islands,850,Country/Area,915,1995-2000,   13
+Belize,84,Country/Area,916,1995-2000,   23
+Costa Rica,188,Country/Area,916,1995-2000,   12
+El Salvador,222,Country/Area,916,1995-2000,   29
+Guatemala,320,Country/Area,916,1995-2000,   45
+Honduras,340,Country/Area,916,1995-2000,   35
+Mexico,484,Country/Area,916,1995-2000,   25
+Nicaragua,558,Country/Area,916,1995-2000,   34
+Panama,591,Country/Area,916,1995-2000,   23
+Argentina,32,Country/Area,931,1995-2000,   20
+Bolivia (Plurinational State of),68,Country/Area,931,1995-2000,   66
+Brazil,76,Country/Area,931,1995-2000,   34
+Chile,152,Country/Area,931,1995-2000,   11
+Colombia,170,Country/Area,931,1995-2000,   22
+Ecuador,218,Country/Area,931,1995-2000,   31
+French Guiana,254,Country/Area,931,1995-2000,   17
+Guyana,328,Country/Area,931,1995-2000,   41
+Paraguay,600,Country/Area,931,1995-2000,   30
+Peru,604,Country/Area,931,1995-2000,   36
+Suriname,740,Country/Area,931,1995-2000,   33
+Uruguay,858,Country/Area,931,1995-2000,   16
+Venezuela (Bolivarian Republic of),862,Country/Area,931,1995-2000,   20
+Australia,36,Country/Area,927,1995-2000,   5
+New Zealand,554,Country/Area,927,1995-2000,   6
+Fiji,242,Country/Area,928,1995-2000,   20
+New Caledonia,540,Country/Area,928,1995-2000,   21
+Papua New Guinea,598,Country/Area,928,1995-2000,   61
+Solomon Islands,90,Country/Area,928,1995-2000,   26
+Vanuatu,548,Country/Area,928,1995-2000,   25
+Guam,316,Country/Area,954,1995-2000,   17
+Kiribati,296,Country/Area,954,1995-2000,   58
+Micronesia (Fed. States of),583,Country/Area,954,1995-2000,   43
+French Polynesia,258,Country/Area,957,1995-2000,   10
+Samoa,882,Country/Area,957,1995-2000,   20
+Tonga,776,Country/Area,957,1995-2000,   16
+Belarus,112,Country/Area,923,1995-2000,   15
+Bulgaria,100,Country/Area,923,1995-2000,   15
+Czechia,203,Country/Area,923,1995-2000,   5
+Hungary,348,Country/Area,923,1995-2000,   10
+Poland,616,Country/Area,923,1995-2000,   10
+Republic of Moldova,498,Country/Area,923,1995-2000,   24
+Romania,642,Country/Area,923,1995-2000,   20
+Russian Federation,643,Country/Area,923,1995-2000,   21
+Slovakia,703,Country/Area,923,1995-2000,   9
+Ukraine,804,Country/Area,923,1995-2000,   17
+Channel Islands,830,Country/Area,924,1995-2000,   10
+Denmark,208,Country/Area,924,1995-2000,   5
+Estonia,233,Country/Area,924,1995-2000,   12
+Finland,246,Country/Area,924,1995-2000,   4
+Iceland,352,Country/Area,924,1995-2000,   4
+Ireland,372,Country/Area,924,1995-2000,   6
+Latvia,428,Country/Area,924,1995-2000,   16
+Lithuania,440,Country/Area,924,1995-2000,   11
+Norway,578,Country/Area,924,1995-2000,   4
+Sweden,752,Country/Area,924,1995-2000,   4
+United Kingdom,826,Country/Area,924,1995-2000,   6
+Albania,8,Country/Area,925,1995-2000,   26
+Bosnia and Herzegovina,70,Country/Area,925,1995-2000,   11
+Croatia,191,Country/Area,925,1995-2000,   7
+Greece,300,Country/Area,925,1995-2000,   7
+Italy,380,Country/Area,925,1995-2000,   5
+Malta,470,Country/Area,925,1995-2000,   7
+Montenegro,499,Country/Area,925,1995-2000,   12
+North Macedonia,807,Country/Area,925,1995-2000,   18
+Portugal,620,Country/Area,925,1995-2000,   6
+Serbia,688,Country/Area,925,1995-2000,   16
+Slovenia,705,Country/Area,925,1995-2000,   5
+Spain,724,Country/Area,925,1995-2000,   5
+Austria,40,Country/Area,926,1995-2000,   5
+Belgium,56,Country/Area,926,1995-2000,   5
+France,250,Country/Area,926,1995-2000,   5
+Germany,276,Country/Area,926,1995-2000,   5
+Luxembourg,442,Country/Area,926,1995-2000,   5
+Netherlands,528,Country/Area,926,1995-2000,   5
+Switzerland,756,Country/Area,926,1995-2000,   5
+Canada,124,Country/Area,918,1995-2000,   5
+United States of America,840,Country/Area,918,1995-2000,   7
+Burundi,108,Country/Area,910,2000-2005,   88
+Comoros,174,Country/Area,910,2000-2005,   73
+Djibouti,262,Country/Area,910,2000-2005,   68
+Eritrea,232,Country/Area,910,2000-2005,   59
+Ethiopia,231,Country/Area,910,2000-2005,   78
+Kenya,404,Country/Area,910,2000-2005,   63
+Madagascar,450,Country/Area,910,2000-2005,   58
+Malawi,454,Country/Area,910,2000-2005,   87
+Mauritius,480,Country/Area,910,2000-2005,   13
+Mayotte,175,Country/Area,910,2000-2005,   8
+Mozambique,508,Country/Area,910,2000-2005,   99
+Réunion,638,Country/Area,910,2000-2005,   8
+Rwanda,646,Country/Area,910,2000-2005,   94
+Seychelles,690,Country/Area,910,2000-2005,   12
+Somalia,706,Country/Area,910,2000-2005,   97
+South Sudan,728,Country/Area,910,2000-2005,   101
+Uganda,800,Country/Area,910,2000-2005,   80
+United Republic of Tanzania,834,Country/Area,910,2000-2005,   71
+Zambia,894,Country/Area,910,2000-2005,   88
+Zimbabwe,716,Country/Area,910,2000-2005,   65
+Angola,24,Country/Area,911,2000-2005,   129
+Cameroon,120,Country/Area,911,2000-2005,   92
+Central African Republic,140,Country/Area,911,2000-2005,   105
+Chad,148,Country/Area,911,2000-2005,   108
+Congo,178,Country/Area,911,2000-2005,   72
+Democratic Republic of the Congo,180,Country/Area,911,2000-2005,   99
+Equatorial Guinea,226,Country/Area,911,2000-2005,   95
+Gabon,266,Country/Area,911,2000-2005,   60
+Sao Tome and Principe,678,Country/Area,911,2000-2005,   56
+Botswana,72,Country/Area,913,2000-2005,   57
+Eswatini,748,Country/Area,913,2000-2005,   86
+Lesotho,426,Country/Area,913,2000-2005,   79
+Namibia,516,Country/Area,913,2000-2005,   51
+South Africa,710,Country/Area,913,2000-2005,   54
+Benin,204,Country/Area,914,2000-2005,   84
+Burkina Faso,854,Country/Area,914,2000-2005,   90
+Cabo Verde,132,Country/Area,914,2000-2005,   24
+Côte d'Ivoire,384,Country/Area,914,2000-2005,   88
+Gambia,270,Country/Area,914,2000-2005,   59
+Ghana,288,Country/Area,914,2000-2005,   61
+Guinea,324,Country/Area,914,2000-2005,   95
+Guinea-Bissau,624,Country/Area,914,2000-2005,   104
+Liberia,430,Country/Area,914,2000-2005,   100
+Mali,466,Country/Area,914,2000-2005,   107
+Mauritania,478,Country/Area,914,2000-2005,   69
+Niger,562,Country/Area,914,2000-2005,   85
+Nigeria,566,Country/Area,914,2000-2005,   104
+Senegal,686,Country/Area,914,2000-2005,   61
+Sierra Leone,694,Country/Area,914,2000-2005,   142
+Togo,768,Country/Area,914,2000-2005,   77
+Algeria,12,Country/Area,912,2000-2005,   34
+Egypt,818,Country/Area,912,2000-2005,   29
+Libya,434,Country/Area,912,2000-2005,   21
+Morocco,504,Country/Area,912,2000-2005,   37
+Sudan,729,Country/Area,912,2000-2005,   62
+Tunisia,788,Country/Area,912,2000-2005,   23
+Western Sahara,732,Country/Area,912,2000-2005,   53
+Armenia,51,Country/Area,922,2000-2005,   27
+Azerbaijan,31,Country/Area,922,2000-2005,   54
+Bahrain,48,Country/Area,922,2000-2005,   10
+Cyprus,196,Country/Area,922,2000-2005,   6
+Georgia,268,Country/Area,922,2000-2005,   27
+Iraq,368,Country/Area,922,2000-2005,   34
+Israel,376,Country/Area,922,2000-2005,   5
+Jordan,400,Country/Area,922,2000-2005,   22
+Kuwait,414,Country/Area,922,2000-2005,   10
+Lebanon,422,Country/Area,922,2000-2005,   14
+Oman,512,Country/Area,922,2000-2005,   15
+Qatar,634,Country/Area,922,2000-2005,   10
+Saudi Arabia,682,Country/Area,922,2000-2005,   16
+State of Palestine,275,Country/Area,922,2000-2005,   24
+Syrian Arab Republic,760,Country/Area,922,2000-2005,   18
+Turkey,792,Country/Area,922,2000-2005,   25
+United Arab Emirates,784,Country/Area,922,2000-2005,   9
+Yemen,887,Country/Area,922,2000-2005,   62
+Kazakhstan,398,Country/Area,5500,2000-2005,   32
+Kyrgyzstan,417,Country/Area,5500,2000-2005,   38
+Tajikistan,762,Country/Area,5500,2000-2005,   57
+Turkmenistan,795,Country/Area,5500,2000-2005,   62
+Uzbekistan,860,Country/Area,5500,2000-2005,   49
+Afghanistan,4,Country/Area,5501,2000-2005,   85
+Bangladesh,50,Country/Area,5501,2000-2005,   55
+Bhutan,64,Country/Area,5501,2000-2005,   52
+India,356,Country/Area,5501,2000-2005,   60
+Iran (Islamic Republic of),364,Country/Area,5501,2000-2005,   25
+Maldives,462,Country/Area,5501,2000-2005,   27
+Nepal,524,Country/Area,5501,2000-2005,   54
+Pakistan,586,Country/Area,5501,2000-2005,   83
+Sri Lanka,144,Country/Area,5501,2000-2005,   12
+China,156,Country/Area,906,2000-2005,   27
+"China, Hong Kong SAR",344,Country/Area,906,2000-2005,   3
+"China, Macao SAR",446,Country/Area,906,2000-2005,   5
+"China, Taiwan Province of China",158,Country/Area,906,2000-2005,   6
+Dem. People's Republic of Korea,408,Country/Area,906,2000-2005,   28
+Japan,392,Country/Area,906,2000-2005,   3
+Mongolia,496,Country/Area,906,2000-2005,   41
+Republic of Korea,410,Country/Area,906,2000-2005,   5
+Brunei Darussalam,96,Country/Area,920,2000-2005,   10
+Cambodia,116,Country/Area,920,2000-2005,   66
+Indonesia,360,Country/Area,920,2000-2005,   37
+Lao People's Democratic Republic,418,Country/Area,920,2000-2005,   70
+Malaysia,458,Country/Area,920,2000-2005,   8
+Myanmar,104,Country/Area,920,2000-2005,   58
+Philippines,608,Country/Area,920,2000-2005,   28
+Singapore,702,Country/Area,920,2000-2005,   3
+Thailand,764,Country/Area,920,2000-2005,   17
+Timor-Leste,626,Country/Area,920,2000-2005,   69
+Viet Nam,704,Country/Area,920,2000-2005,   24
+Antigua and Barbuda,28,Country/Area,915,2000-2005,   11
+Aruba,533,Country/Area,915,2000-2005,   18
+Bahamas,44,Country/Area,915,2000-2005,   13
+Barbados,52,Country/Area,915,2000-2005,   13
+Cuba,192,Country/Area,915,2000-2005,   6
+Curaçao,531,Country/Area,915,2000-2005,   15
+Dominican Republic,214,Country/Area,915,2000-2005,   35
+Grenada,308,Country/Area,915,2000-2005,   13
+Guadeloupe,312,Country/Area,915,2000-2005,   9
+Haiti,332,Country/Area,915,2000-2005,   69
+Jamaica,388,Country/Area,915,2000-2005,   18
+Martinique,474,Country/Area,915,2000-2005,   9
+Puerto Rico,630,Country/Area,915,2000-2005,   8
+Saint Lucia,662,Country/Area,915,2000-2005,   16
+Saint Vincent and the Grenadines,670,Country/Area,915,2000-2005,   20
+Trinidad and Tobago,780,Country/Area,915,2000-2005,   29
+United States Virgin Islands,850,Country/Area,915,2000-2005,   12
+Belize,84,Country/Area,916,2000-2005,   20
+Costa Rica,188,Country/Area,916,2000-2005,   11
+El Salvador,222,Country/Area,916,2000-2005,   24
+Guatemala,320,Country/Area,916,2000-2005,   37
+Honduras,340,Country/Area,916,2000-2005,   28
+Mexico,484,Country/Area,916,2000-2005,   20
+Nicaragua,558,Country/Area,916,2000-2005,   26
+Panama,591,Country/Area,916,2000-2005,   21
+Argentina,32,Country/Area,931,2000-2005,   17
+Bolivia (Plurinational State of),68,Country/Area,931,2000-2005,   52
+Brazil,76,Country/Area,931,2000-2005,   28
+Chile,152,Country/Area,931,2000-2005,   8
+Colombia,170,Country/Area,931,2000-2005,   20
+Ecuador,218,Country/Area,931,2000-2005,   24
+French Guiana,254,Country/Area,931,2000-2005,   13
+Guyana,328,Country/Area,931,2000-2005,   35
+Paraguay,600,Country/Area,931,2000-2005,   27
+Peru,604,Country/Area,931,2000-2005,   25
+Suriname,740,Country/Area,931,2000-2005,   28
+Uruguay,858,Country/Area,931,2000-2005,   15
+Venezuela (Bolivarian Republic of),862,Country/Area,931,2000-2005,   17
+Australia,36,Country/Area,927,2000-2005,   5
+New Zealand,554,Country/Area,927,2000-2005,   5
+Fiji,242,Country/Area,928,2000-2005,   19
+New Caledonia,540,Country/Area,928,2000-2005,   17
+Papua New Guinea,598,Country/Area,928,2000-2005,   58
+Solomon Islands,90,Country/Area,928,2000-2005,   25
+Vanuatu,548,Country/Area,928,2000-2005,   24
+Guam,316,Country/Area,954,2000-2005,   14
+Kiribati,296,Country/Area,954,2000-2005,   52
+Micronesia (Fed. States of),583,Country/Area,954,2000-2005,   40
+French Polynesia,258,Country/Area,957,2000-2005,   9
+Samoa,882,Country/Area,957,2000-2005,   17
+Tonga,776,Country/Area,957,2000-2005,   14
+Belarus,112,Country/Area,923,2000-2005,   10
+Bulgaria,100,Country/Area,923,2000-2005,   13
+Czechia,203,Country/Area,923,2000-2005,   4
+Hungary,348,Country/Area,923,2000-2005,   7
+Poland,616,Country/Area,923,2000-2005,   7
+Republic of Moldova,498,Country/Area,923,2000-2005,   19
+Romania,642,Country/Area,923,2000-2005,   17
+Russian Federation,643,Country/Area,923,2000-2005,   16
+Slovakia,703,Country/Area,923,2000-2005,   7
+Ukraine,804,Country/Area,923,2000-2005,   15
+Channel Islands,830,Country/Area,924,2000-2005,   9
+Denmark,208,Country/Area,924,2000-2005,   5
+Estonia,233,Country/Area,924,2000-2005,   7
+Finland,246,Country/Area,924,2000-2005,   3
+Iceland,352,Country/Area,924,2000-2005,   3
+Ireland,372,Country/Area,924,2000-2005,   5
+Latvia,428,Country/Area,924,2000-2005,   10
+Lithuania,440,Country/Area,924,2000-2005,   8
+Norway,578,Country/Area,924,2000-2005,   3
+Sweden,752,Country/Area,924,2000-2005,   3
+United Kingdom,826,Country/Area,924,2000-2005,   5
+Albania,8,Country/Area,925,2000-2005,   21
+Bosnia and Herzegovina,70,Country/Area,925,2000-2005,   10
+Croatia,191,Country/Area,925,2000-2005,   7
+Greece,300,Country/Area,925,2000-2005,   5
+Italy,380,Country/Area,925,2000-2005,   4
+Malta,470,Country/Area,925,2000-2005,   6
+Montenegro,499,Country/Area,925,2000-2005,   12
+North Macedonia,807,Country/Area,925,2000-2005,   13
+Portugal,620,Country/Area,925,2000-2005,   5
+Serbia,688,Country/Area,925,2000-2005,   10
+Slovenia,705,Country/Area,925,2000-2005,   4
+Spain,724,Country/Area,925,2000-2005,   4
+Austria,40,Country/Area,926,2000-2005,   4
+Belgium,56,Country/Area,926,2000-2005,   4
+France,250,Country/Area,926,2000-2005,   4
+Germany,276,Country/Area,926,2000-2005,   4
+Luxembourg,442,Country/Area,926,2000-2005,   5
+Netherlands,528,Country/Area,926,2000-2005,   5
+Switzerland,756,Country/Area,926,2000-2005,   5
+Canada,124,Country/Area,918,2000-2005,   5
+United States of America,840,Country/Area,918,2000-2005,   7
+Burundi,108,Country/Area,910,2005-2010,   70
+Comoros,174,Country/Area,910,2005-2010,   67
+Djibouti,262,Country/Area,910,2005-2010,   63
+Eritrea,232,Country/Area,910,2005-2010,   52
+Ethiopia,231,Country/Area,910,2005-2010,   60
+Kenya,404,Country/Area,910,2005-2010,   51
+Madagascar,450,Country/Area,910,2005-2010,   45
+Malawi,454,Country/Area,910,2005-2010,   68
+Mauritius,480,Country/Area,910,2005-2010,   13
+Mayotte,175,Country/Area,910,2005-2010,   6
+Mozambique,508,Country/Area,910,2005-2010,   79
+Réunion,638,Country/Area,910,2005-2010,   6
+Rwanda,646,Country/Area,910,2005-2010,   63
+Seychelles,690,Country/Area,910,2005-2010,   12
+Somalia,706,Country/Area,910,2005-2010,   90
+South Sudan,728,Country/Area,910,2005-2010,   79
+Uganda,800,Country/Area,910,2005-2010,   71
+United Republic of Tanzania,834,Country/Area,910,2005-2010,   55
+Zambia,894,Country/Area,910,2005-2010,   65
+Zimbabwe,716,Country/Area,910,2005-2010,   63
+Angola,24,Country/Area,911,2005-2010,   104
+Cameroon,120,Country/Area,911,2005-2010,   80
+Central African Republic,140,Country/Area,911,2005-2010,   100
+Chad,148,Country/Area,911,2005-2010,   98
+Congo,178,Country/Area,911,2005-2010,   52
+Democratic Republic of the Congo,180,Country/Area,911,2005-2010,   84
+Equatorial Guinea,226,Country/Area,911,2005-2010,   85
+Gabon,266,Country/Area,911,2005-2010,   50
+Sao Tome and Principe,678,Country/Area,911,2005-2010,   42
+Botswana,72,Country/Area,913,2005-2010,   44
+Eswatini,748,Country/Area,913,2005-2010,   74
+Lesotho,426,Country/Area,913,2005-2010,   75
+Namibia,516,Country/Area,913,2005-2010,   43
+South Africa,710,Country/Area,913,2005-2010,   48
+Benin,204,Country/Area,914,2005-2010,   75
+Burkina Faso,854,Country/Area,914,2005-2010,   78
+Cabo Verde,132,Country/Area,914,2005-2010,   23
+Côte d'Ivoire,384,Country/Area,914,2005-2010,   77
+Gambia,270,Country/Area,914,2005-2010,   52
+Ghana,288,Country/Area,914,2005-2010,   54
+Guinea,324,Country/Area,914,2005-2010,   78
+Guinea-Bissau,624,Country/Area,914,2005-2010,   85
+Liberia,430,Country/Area,914,2005-2010,   73
+Mali,466,Country/Area,914,2005-2010,   89
+Mauritania,478,Country/Area,914,2005-2010,   66
+Niger,562,Country/Area,914,2005-2010,   68
+Nigeria,566,Country/Area,914,2005-2010,   89
+Senegal,686,Country/Area,914,2005-2010,   47
+Sierra Leone,694,Country/Area,914,2005-2010,   122
+Togo,768,Country/Area,914,2005-2010,   63
+Algeria,12,Country/Area,912,2005-2010,   29
+Egypt,818,Country/Area,912,2005-2010,   23
+Libya,434,Country/Area,912,2005-2010,   18
+Morocco,504,Country/Area,912,2005-2010,   27
+Sudan,729,Country/Area,912,2005-2010,   53
+Tunisia,788,Country/Area,912,2005-2010,   18
+Western Sahara,732,Country/Area,912,2005-2010,   43
+Armenia,51,Country/Area,922,2005-2010,   21
+Azerbaijan,31,Country/Area,922,2005-2010,   41
+Bahrain,48,Country/Area,922,2005-2010,   8
+Cyprus,196,Country/Area,922,2005-2010,   4
+Georgia,268,Country/Area,922,2005-2010,   18
+Iraq,368,Country/Area,922,2005-2010,   32
+Israel,376,Country/Area,922,2005-2010,   4
+Jordan,400,Country/Area,922,2005-2010,   20
+Kuwait,414,Country/Area,922,2005-2010,   10
+Lebanon,422,Country/Area,922,2005-2010,   11
+Oman,512,Country/Area,922,2005-2010,   10
+Qatar,634,Country/Area,922,2005-2010,   8
+Saudi Arabia,682,Country/Area,922,2005-2010,   12
+State of Palestine,275,Country/Area,922,2005-2010,   21
+Syrian Arab Republic,760,Country/Area,922,2005-2010,   15
+Turkey,792,Country/Area,922,2005-2010,   16
+United Arab Emirates,784,Country/Area,922,2005-2010,   8
+Yemen,887,Country/Area,922,2005-2010,   49
+Kazakhstan,398,Country/Area,5500,2005-2010,   24
+Kyrgyzstan,417,Country/Area,5500,2005-2010,   30
+Tajikistan,762,Country/Area,5500,2005-2010,   39
+Turkmenistan,795,Country/Area,5500,2005-2010,   54
+Uzbekistan,860,Country/Area,5500,2005-2010,   41
+Afghanistan,4,Country/Area,5501,2005-2010,   72
+Bangladesh,50,Country/Area,5501,2005-2010,   43
+Bhutan,64,Country/Area,5501,2005-2010,   39
+India,356,Country/Area,5501,2005-2010,   49
+Iran (Islamic Republic of),364,Country/Area,5501,2005-2010,   19
+Maldives,462,Country/Area,5501,2005-2010,   15
+Nepal,524,Country/Area,5501,2005-2010,   43
+Pakistan,586,Country/Area,5501,2005-2010,   76
+Sri Lanka,144,Country/Area,5501,2005-2010,   10
+China,156,Country/Area,906,2005-2010,   18
+"China, Hong Kong SAR",344,Country/Area,906,2005-2010,   2
+"China, Macao SAR",446,Country/Area,906,2005-2010,   4
+"China, Taiwan Province of China",158,Country/Area,906,2005-2010,   5
+Dem. People's Republic of Korea,408,Country/Area,906,2005-2010,   27
+Japan,392,Country/Area,906,2005-2010,   3
+Mongolia,496,Country/Area,906,2005-2010,   31
+Republic of Korea,410,Country/Area,906,2005-2010,   4
+Brunei Darussalam,96,Country/Area,920,2005-2010,   9
+Cambodia,116,Country/Area,920,2005-2010,   45
+Indonesia,360,Country/Area,920,2005-2010,   30
+Lao People's Democratic Republic,418,Country/Area,920,2005-2010,   58
+Malaysia,458,Country/Area,920,2005-2010,   7
+Myanmar,104,Country/Area,920,2005-2010,   52
+Philippines,608,Country/Area,920,2005-2010,   25
+Singapore,702,Country/Area,920,2005-2010,   2
+Thailand,764,Country/Area,920,2005-2010,   13
+Timor-Leste,626,Country/Area,920,2005-2010,   53
+Viet Nam,704,Country/Area,920,2005-2010,   19
+Antigua and Barbuda,28,Country/Area,915,2005-2010,   9
+Aruba,533,Country/Area,915,2005-2010,   16
+Bahamas,44,Country/Area,915,2005-2010,   11
+Barbados,52,Country/Area,915,2005-2010,   13
+Cuba,192,Country/Area,915,2005-2010,   5
+Curaçao,531,Country/Area,915,2005-2010,   13
+Dominican Republic,214,Country/Area,915,2005-2010,   30
+Grenada,308,Country/Area,915,2005-2010,   12
+Guadeloupe,312,Country/Area,915,2005-2010,   7
+Haiti,332,Country/Area,915,2005-2010,   64
+Jamaica,388,Country/Area,915,2005-2010,   17
+Martinique,474,Country/Area,915,2005-2010,   8
+Puerto Rico,630,Country/Area,915,2005-2010,   7
+Saint Lucia,662,Country/Area,915,2005-2010,   16
+Saint Vincent and the Grenadines,670,Country/Area,915,2005-2010,   19
+Trinidad and Tobago,780,Country/Area,915,2005-2010,   28
+United States Virgin Islands,850,Country/Area,915,2005-2010,   11
+Belize,84,Country/Area,916,2005-2010,   17
+Costa Rica,188,Country/Area,916,2005-2010,   10
+El Salvador,222,Country/Area,916,2005-2010,   22
+Guatemala,320,Country/Area,916,2005-2010,   31
+Honduras,340,Country/Area,916,2005-2010,   23
+Mexico,484,Country/Area,916,2005-2010,   17
+Nicaragua,558,Country/Area,916,2005-2010,   23
+Panama,591,Country/Area,916,2005-2010,   18
+Argentina,32,Country/Area,931,2005-2010,   14
+Bolivia (Plurinational State of),68,Country/Area,931,2005-2010,   42
+Brazil,76,Country/Area,931,2005-2010,   20
+Chile,152,Country/Area,931,2005-2010,   8
+Colombia,170,Country/Area,931,2005-2010,   17
+Ecuador,218,Country/Area,931,2005-2010,   19
+French Guiana,254,Country/Area,931,2005-2010,   11
+Guyana,328,Country/Area,931,2005-2010,   32
+Paraguay,600,Country/Area,931,2005-2010,   24
+Peru,604,Country/Area,931,2005-2010,   18
+Suriname,740,Country/Area,931,2005-2010,   24
+Uruguay,858,Country/Area,931,2005-2010,   11
+Venezuela (Bolivarian Republic of),862,Country/Area,931,2005-2010,   15
+Australia,36,Country/Area,927,2005-2010,   4
+New Zealand,554,Country/Area,927,2005-2010,   5
+Fiji,242,Country/Area,928,2005-2010,   20
+New Caledonia,540,Country/Area,928,2005-2010,   15
+Papua New Guinea,598,Country/Area,928,2005-2010,   54
+Solomon Islands,90,Country/Area,928,2005-2010,   23
+Vanuatu,548,Country/Area,928,2005-2010,   24
+Guam,316,Country/Area,954,2005-2010,   11
+Kiribati,296,Country/Area,954,2005-2010,   51
+Micronesia (Fed. States of),583,Country/Area,954,2005-2010,   35
+French Polynesia,258,Country/Area,957,2005-2010,   9
+Samoa,882,Country/Area,957,2005-2010,   17
+Tonga,776,Country/Area,957,2005-2010,   14
+Belarus,112,Country/Area,923,2005-2010,   6
+Bulgaria,100,Country/Area,923,2005-2010,   10
+Czechia,203,Country/Area,923,2005-2010,   3
+Hungary,348,Country/Area,923,2005-2010,   6
+Poland,616,Country/Area,923,2005-2010,   6
+Republic of Moldova,498,Country/Area,923,2005-2010,   16
+Romania,642,Country/Area,923,2005-2010,   12
+Russian Federation,643,Country/Area,923,2005-2010,   11
+Slovakia,703,Country/Area,923,2005-2010,   6
+Ukraine,804,Country/Area,923,2005-2010,   13
+Channel Islands,830,Country/Area,924,2005-2010,   8
+Denmark,208,Country/Area,924,2005-2010,   4
+Estonia,233,Country/Area,924,2005-2010,   5
+Finland,246,Country/Area,924,2005-2010,   3
+Iceland,352,Country/Area,924,2005-2010,   2
+Ireland,372,Country/Area,924,2005-2010,   4
+Latvia,428,Country/Area,924,2005-2010,   8
+Lithuania,440,Country/Area,924,2005-2010,   6
+Norway,578,Country/Area,924,2005-2010,   3
+Sweden,752,Country/Area,924,2005-2010,   3
+United Kingdom,826,Country/Area,924,2005-2010,   5
+Albania,8,Country/Area,925,2005-2010,   17
+Bosnia and Herzegovina,70,Country/Area,925,2005-2010,   9
+Croatia,191,Country/Area,925,2005-2010,   6
+Greece,300,Country/Area,925,2005-2010,   3
+Italy,380,Country/Area,925,2005-2010,   3
+Malta,470,Country/Area,925,2005-2010,   6
+Montenegro,499,Country/Area,925,2005-2010,   11
+North Macedonia,807,Country/Area,925,2005-2010,   11
+Portugal,620,Country/Area,925,2005-2010,   3
+Serbia,688,Country/Area,925,2005-2010,   7
+Slovenia,705,Country/Area,925,2005-2010,   3
+Spain,724,Country/Area,925,2005-2010,   3
+Austria,40,Country/Area,926,2005-2010,   4
+Belgium,56,Country/Area,926,2005-2010,   4
+France,250,Country/Area,926,2005-2010,   4
+Germany,276,Country/Area,926,2005-2010,   4
+Luxembourg,442,Country/Area,926,2005-2010,   2
+Netherlands,528,Country/Area,926,2005-2010,   4
+Switzerland,756,Country/Area,926,2005-2010,   4
+Canada,124,Country/Area,918,2005-2010,   5
+United States of America,840,Country/Area,918,2005-2010,   7
+Burundi,108,Country/Area,910,2010-2015,   52
+Comoros,174,Country/Area,910,2010-2015,   58
+Djibouti,262,Country/Area,910,2010-2015,   56
+Eritrea,232,Country/Area,910,2010-2015,   45
+Ethiopia,231,Country/Area,910,2010-2015,   46
+Kenya,404,Country/Area,910,2010-2015,   42
+Madagascar,450,Country/Area,910,2010-2015,   37
+Malawi,454,Country/Area,910,2010-2015,   53
+Mauritius,480,Country/Area,910,2010-2015,   12
+Mayotte,175,Country/Area,910,2010-2015,   4
+Mozambique,508,Country/Area,910,2010-2015,   63
+Réunion,638,Country/Area,910,2010-2015,   4
+Rwanda,646,Country/Area,910,2010-2015,   39
+Seychelles,690,Country/Area,910,2010-2015,   12
+Somalia,706,Country/Area,910,2010-2015,   79
+South Sudan,728,Country/Area,910,2010-2015,   66
+Uganda,800,Country/Area,910,2010-2015,   59
+United Republic of Tanzania,834,Country/Area,910,2010-2015,   47
+Zambia,894,Country/Area,910,2010-2015,   53
+Zimbabwe,716,Country/Area,910,2010-2015,   51
+Angola,24,Country/Area,911,2010-2015,   78
+Cameroon,120,Country/Area,911,2010-2015,   71
+Central African Republic,140,Country/Area,911,2010-2015,   90
+Chad,148,Country/Area,911,2010-2015,   84
+Congo,178,Country/Area,911,2010-2015,   41
+Democratic Republic of the Congo,180,Country/Area,911,2010-2015,   73
+Equatorial Guinea,226,Country/Area,911,2010-2015,   74
+Gabon,266,Country/Area,911,2010-2015,   42
+Sao Tome and Principe,678,Country/Area,911,2010-2015,   32
+Botswana,72,Country/Area,913,2010-2015,   35
+Eswatini,748,Country/Area,913,2010-2015,   52
+Lesotho,426,Country/Area,913,2010-2015,   65
+Namibia,516,Country/Area,913,2010-2015,   39
+South Africa,710,Country/Area,913,2010-2015,   33
+Benin,204,Country/Area,914,2010-2015,   68
+Burkina Faso,854,Country/Area,914,2010-2015,   65
+Cabo Verde,132,Country/Area,914,2010-2015,   21
+Côte d'Ivoire,384,Country/Area,914,2010-2015,   67
+Gambia,270,Country/Area,914,2010-2015,   50
+Ghana,288,Country/Area,914,2010-2015,   45
+Guinea,324,Country/Area,914,2010-2015,   66
+Guinea-Bissau,624,Country/Area,914,2010-2015,   68
+Liberia,430,Country/Area,914,2010-2015,   60
+Mali,466,Country/Area,914,2010-2015,   78
+Mauritania,478,Country/Area,914,2010-2015,   59
+Niger,562,Country/Area,914,2010-2015,   56
+Nigeria,566,Country/Area,914,2010-2015,   75
+Senegal,686,Country/Area,914,2010-2015,   38
+Sierra Leone,694,Country/Area,914,2010-2015,   97
+Togo,768,Country/Area,914,2010-2015,   56
+Algeria,12,Country/Area,912,2010-2015,   25
+Egypt,818,Country/Area,912,2010-2015,   19
+Libya,434,Country/Area,912,2010-2015,   13
+Morocco,504,Country/Area,912,2010-2015,   24
+Sudan,729,Country/Area,912,2010-2015,   48
+Tunisia,788,Country/Area,912,2010-2015,   15
+Western Sahara,732,Country/Area,912,2010-2015,   34
+Armenia,51,Country/Area,922,2010-2015,   13
+Azerbaijan,31,Country/Area,922,2010-2015,   31
+Bahrain,48,Country/Area,922,2010-2015,   7
+Cyprus,196,Country/Area,922,2010-2015,   4
+Georgia,268,Country/Area,922,2010-2015,   13
+Iraq,368,Country/Area,922,2010-2015,   28
+Israel,376,Country/Area,922,2010-2015,   3
+Jordan,400,Country/Area,922,2010-2015,   17
+Kuwait,414,Country/Area,922,2010-2015,   8
+Lebanon,422,Country/Area,922,2010-2015,   10
+Oman,512,Country/Area,922,2010-2015,   10
+Qatar,634,Country/Area,922,2010-2015,   7
+Saudi Arabia,682,Country/Area,922,2010-2015,   9
+State of Palestine,275,Country/Area,922,2010-2015,   19
+Syrian Arab Republic,760,Country/Area,922,2010-2015,   18
+Turkey,792,Country/Area,922,2010-2015,   12
+United Arab Emirates,784,Country/Area,922,2010-2015,   7
+Yemen,887,Country/Area,922,2010-2015,   43
+Kazakhstan,398,Country/Area,5500,2010-2015,   14
+Kyrgyzstan,417,Country/Area,5500,2010-2015,   20
+Tajikistan,762,Country/Area,5500,2010-2015,   34
+Turkmenistan,795,Country/Area,5500,2010-2015,   47
+Uzbekistan,860,Country/Area,5500,2010-2015,   28
+Afghanistan,4,Country/Area,5501,2010-2015,   60
+Bangladesh,50,Country/Area,5501,2010-2015,   33
+Bhutan,64,Country/Area,5501,2010-2015,   30
+India,356,Country/Area,5501,2010-2015,   39
+Iran (Islamic Republic of),364,Country/Area,5501,2010-2015,   15
+Maldives,462,Country/Area,5501,2010-2015,   9
+Nepal,524,Country/Area,5501,2010-2015,   34
+Pakistan,586,Country/Area,5501,2010-2015,   68
+Sri Lanka,144,Country/Area,5501,2010-2015,   9
+China,156,Country/Area,906,2010-2015,   12
+"China, Hong Kong SAR",344,Country/Area,906,2010-2015,   2
+"China, Macao SAR",446,Country/Area,906,2010-2015,   3
+"China, Taiwan Province of China",158,Country/Area,906,2010-2015,   4
+Dem. People's Republic of Korea,408,Country/Area,906,2010-2015,   19
+Japan,392,Country/Area,906,2010-2015,   2
+Mongolia,496,Country/Area,906,2010-2015,   23
+Republic of Korea,410,Country/Area,906,2010-2015,   3
+Brunei Darussalam,96,Country/Area,920,2010-2015,   9
+Cambodia,116,Country/Area,920,2010-2015,   30
+Indonesia,360,Country/Area,920,2010-2015,   25
+Lao People's Democratic Republic,418,Country/Area,920,2010-2015,   47
+Malaysia,458,Country/Area,920,2010-2015,   6
+Myanmar,104,Country/Area,920,2010-2015,   44
+Philippines,608,Country/Area,920,2010-2015,   24
+Singapore,702,Country/Area,920,2010-2015,   2
+Thailand,764,Country/Area,920,2010-2015,   10
+Timor-Leste,626,Country/Area,920,2010-2015,   45
+Viet Nam,704,Country/Area,920,2010-2015,   18
+Antigua and Barbuda,28,Country/Area,915,2010-2015,   7
+Aruba,533,Country/Area,915,2010-2015,   15
+Bahamas,44,Country/Area,915,2010-2015,   8
+Barbados,52,Country/Area,915,2010-2015,   11
+Cuba,192,Country/Area,915,2010-2015,   5
+Curaçao,531,Country/Area,915,2010-2015,   10
+Dominican Republic,214,Country/Area,915,2010-2015,   27
+Grenada,308,Country/Area,915,2010-2015,   14
+Guadeloupe,312,Country/Area,915,2010-2015,   6
+Haiti,332,Country/Area,915,2010-2015,   61
+Jamaica,388,Country/Area,915,2010-2015,   15
+Martinique,474,Country/Area,915,2010-2015,   6
+Puerto Rico,630,Country/Area,915,2010-2015,   6
+Saint Lucia,662,Country/Area,915,2010-2015,   16
+Saint Vincent and the Grenadines,670,Country/Area,915,2010-2015,   17
+Trinidad and Tobago,780,Country/Area,915,2010-2015,   26
+United States Virgin Islands,850,Country/Area,915,2010-2015,   9
+Belize,84,Country/Area,916,2010-2015,   15
+Costa Rica,188,Country/Area,916,2010-2015,   9
+El Salvador,222,Country/Area,916,2010-2015,   18
+Guatemala,320,Country/Area,916,2010-2015,   27
+Honduras,340,Country/Area,916,2010-2015,   18
+Mexico,484,Country/Area,916,2010-2015,   15
+Nicaragua,558,Country/Area,916,2010-2015,   18
+Panama,591,Country/Area,916,2010-2015,   16
+Argentina,32,Country/Area,931,2010-2015,   12
+Bolivia (Plurinational State of),68,Country/Area,931,2010-2015,   32
+Brazil,76,Country/Area,931,2010-2015,   16
+Chile,152,Country/Area,931,2010-2015,   7
+Colombia,170,Country/Area,931,2010-2015,   14
+Ecuador,218,Country/Area,931,2010-2015,   15
+French Guiana,254,Country/Area,931,2010-2015,   9
+Guyana,328,Country/Area,931,2010-2015,   32
+Paraguay,600,Country/Area,931,2010-2015,   21
+Peru,604,Country/Area,931,2010-2015,   14
+Suriname,740,Country/Area,931,2010-2015,   20
+Uruguay,858,Country/Area,931,2010-2015,   10
+Venezuela (Bolivarian Republic of),862,Country/Area,931,2010-2015,   15
+Australia,36,Country/Area,927,2010-2015,   4
+New Zealand,554,Country/Area,927,2010-2015,   4
+Fiji,242,Country/Area,928,2010-2015,   20
+New Caledonia,540,Country/Area,928,2010-2015,   13
+Papua New Guinea,598,Country/Area,928,2010-2015,   48
+Solomon Islands,90,Country/Area,928,2010-2015,   20
+Vanuatu,548,Country/Area,928,2010-2015,   24
+Guam,316,Country/Area,954,2010-2015,   10
+Kiribati,296,Country/Area,954,2010-2015,   48
+Micronesia (Fed. States of),583,Country/Area,954,2010-2015,   30
+French Polynesia,258,Country/Area,957,2010-2015,   7
+Samoa,882,Country/Area,957,2010-2015,   15
+Tonga,776,Country/Area,957,2010-2015,   15
+Belarus,112,Country/Area,923,2010-2015,   3
+Bulgaria,100,Country/Area,923,2010-2015,   8
+Czechia,203,Country/Area,923,2010-2015,   3
+Hungary,348,Country/Area,923,2010-2015,   5
+Poland,616,Country/Area,923,2010-2015,   4
+Republic of Moldova,498,Country/Area,923,2010-2015,   14
+Romania,642,Country/Area,923,2010-2015,   8
+Russian Federation,643,Country/Area,923,2010-2015,   8
+Slovakia,703,Country/Area,923,2010-2015,   5
+Ukraine,804,Country/Area,923,2010-2015,   9
+Channel Islands,830,Country/Area,924,2010-2015,   7
+Denmark,208,Country/Area,924,2010-2015,   4
+Estonia,233,Country/Area,924,2010-2015,   3
+Finland,246,Country/Area,924,2010-2015,   2
+Iceland,352,Country/Area,924,2010-2015,   2
+Ireland,372,Country/Area,924,2010-2015,   3
+Latvia,428,Country/Area,924,2010-2015,   5
+Lithuania,440,Country/Area,924,2010-2015,   4
+Norway,578,Country/Area,924,2010-2015,   2
+Sweden,752,Country/Area,924,2010-2015,   2
+United Kingdom,826,Country/Area,924,2010-2015,   4
+Albania,8,Country/Area,925,2010-2015,   9
+Bosnia and Herzegovina,70,Country/Area,925,2010-2015,   7
+Croatia,191,Country/Area,925,2010-2015,   4
+Greece,300,Country/Area,925,2010-2015,   3
+Italy,380,Country/Area,925,2010-2015,   3
+Malta,470,Country/Area,925,2010-2015,   5
+Montenegro,499,Country/Area,925,2010-2015,   4
+North Macedonia,807,Country/Area,925,2010-2015,   9
+Portugal,620,Country/Area,925,2010-2015,   3
+Serbia,688,Country/Area,925,2010-2015,   6
+Slovenia,705,Country/Area,925,2010-2015,   2
+Spain,724,Country/Area,925,2010-2015,   3
+Austria,40,Country/Area,926,2010-2015,   3
+Belgium,56,Country/Area,926,2010-2015,   3
+France,250,Country/Area,926,2010-2015,   3
+Germany,276,Country/Area,926,2010-2015,   3
+Luxembourg,442,Country/Area,926,2010-2015,   3
+Netherlands,528,Country/Area,926,2010-2015,   3
+Switzerland,756,Country/Area,926,2010-2015,   4
+Canada,124,Country/Area,918,2010-2015,   5
+United States of America,840,Country/Area,918,2010-2015,   6
+Burundi,108,Country/Area,910,2015-2020,   42
+Comoros,174,Country/Area,910,2015-2020,   53
+Djibouti,262,Country/Area,910,2015-2020,   33
+Eritrea,232,Country/Area,910,2015-2020,   35
+Ethiopia,231,Country/Area,910,2015-2020,   37
+Kenya,404,Country/Area,910,2015-2020,   36
+Madagascar,450,Country/Area,910,2015-2020,   29
+Malawi,454,Country/Area,910,2015-2020,   41
+Mauritius,480,Country/Area,910,2015-2020,   11
+Mayotte,175,Country/Area,910,2015-2020,   4
+Mozambique,508,Country/Area,910,2015-2020,   54
+Réunion,638,Country/Area,910,2015-2020,   3
+Rwanda,646,Country/Area,910,2015-2020,   29
+Seychelles,690,Country/Area,910,2015-2020,   11
+Somalia,706,Country/Area,910,2015-2020,   69
+South Sudan,728,Country/Area,910,2015-2020,   64
+Uganda,800,Country/Area,910,2015-2020,   46
+United Republic of Tanzania,834,Country/Area,910,2015-2020,   41
+Zambia,894,Country/Area,910,2015-2020,   46
+Zimbabwe,716,Country/Area,910,2015-2020,   39
+Angola,24,Country/Area,911,2015-2020,   61
+Cameroon,120,Country/Area,911,2015-2020,   61
+Central African Republic,140,Country/Area,911,2015-2020,   82
+Chad,148,Country/Area,911,2015-2020,   75
+Congo,178,Country/Area,911,2015-2020,   35
+Democratic Republic of the Congo,180,Country/Area,911,2015-2020,   65
+Equatorial Guinea,226,Country/Area,911,2015-2020,   66
+Gabon,266,Country/Area,911,2015-2020,   35
+Sao Tome and Principe,678,Country/Area,911,2015-2020,   26
+Botswana,72,Country/Area,913,2015-2020,   30
+Eswatini,748,Country/Area,913,2015-2020,   41
+Lesotho,426,Country/Area,913,2015-2020,   62
+Namibia,516,Country/Area,913,2015-2020,   33
+South Africa,710,Country/Area,913,2015-2020,   27
+Benin,204,Country/Area,914,2015-2020,   61
+Burkina Faso,854,Country/Area,914,2015-2020,   54
+Cabo Verde,132,Country/Area,914,2015-2020,   17
+Côte d'Ivoire,384,Country/Area,914,2015-2020,   60
+Gambia,270,Country/Area,914,2015-2020,   45
+Ghana,288,Country/Area,914,2015-2020,   36
+Guinea,324,Country/Area,914,2015-2020,   52
+Guinea-Bissau,624,Country/Area,914,2015-2020,   57
+Liberia,430,Country/Area,914,2015-2020,   54
+Mali,466,Country/Area,914,2015-2020,   66
+Mauritania,478,Country/Area,914,2015-2020,   53
+Niger,562,Country/Area,914,2015-2020,   46
+Nigeria,566,Country/Area,914,2015-2020,   62
+Senegal,686,Country/Area,914,2015-2020,   33
+Sierra Leone,694,Country/Area,914,2015-2020,   81
+Togo,768,Country/Area,914,2015-2020,   50
+Algeria,12,Country/Area,912,2015-2020,   21
+Egypt,818,Country/Area,912,2015-2020,   16
+Libya,434,Country/Area,912,2015-2020,   11
+Morocco,504,Country/Area,912,2015-2020,   20
+Sudan,729,Country/Area,912,2015-2020,   43
+Tunisia,788,Country/Area,912,2015-2020,   13
+Western Sahara,732,Country/Area,912,2015-2020,   29
+Armenia,51,Country/Area,922,2015-2020,   11
+Azerbaijan,31,Country/Area,922,2015-2020,   21
+Bahrain,48,Country/Area,922,2015-2020,   6
+Cyprus,196,Country/Area,922,2015-2020,   4
+Georgia,268,Country/Area,922,2015-2020,   9
+Iraq,368,Country/Area,922,2015-2020,   24
+Israel,376,Country/Area,922,2015-2020,   3
+Jordan,400,Country/Area,922,2015-2020,   15
+Kuwait,414,Country/Area,922,2015-2020,   7
+Lebanon,422,Country/Area,922,2015-2020,   9
+Oman,512,Country/Area,922,2015-2020,   7
+Qatar,634,Country/Area,922,2015-2020,   6
+Saudi Arabia,682,Country/Area,922,2015-2020,   6
+State of Palestine,275,Country/Area,922,2015-2020,   17
+Syrian Arab Republic,760,Country/Area,922,2015-2020,   16
+Turkey,792,Country/Area,922,2015-2020,   9
+United Arab Emirates,784,Country/Area,922,2015-2020,   6
+Yemen,887,Country/Area,922,2015-2020,   43
+Kazakhstan,398,Country/Area,5500,2015-2020,   8
+Kyrgyzstan,417,Country/Area,5500,2015-2020,   16
+Tajikistan,762,Country/Area,5500,2015-2020,   29
+Turkmenistan,795,Country/Area,5500,2015-2020,   43
+Uzbekistan,860,Country/Area,5500,2015-2020,   21
+Afghanistan,4,Country/Area,5501,2015-2020,   52
+Bangladesh,50,Country/Area,5501,2015-2020,   27
+Bhutan,64,Country/Area,5501,2015-2020,   24
+India,356,Country/Area,5501,2015-2020,   32
+Iran (Islamic Republic of),364,Country/Area,5501,2015-2020,   13
+Maldives,462,Country/Area,5501,2015-2020,   7
+Nepal,524,Country/Area,5501,2015-2020,   28
+Pakistan,586,Country/Area,5501,2015-2020,   61
+Sri Lanka,144,Country/Area,5501,2015-2020,   8
+China,156,Country/Area,906,2015-2020,   10
+"China, Hong Kong SAR",344,Country/Area,906,2015-2020,   1
+"China, Macao SAR",446,Country/Area,906,2015-2020,   3
+"China, Taiwan Province of China",158,Country/Area,906,2015-2020,   4
+Dem. People's Republic of Korea,408,Country/Area,906,2015-2020,   14
+Japan,392,Country/Area,906,2015-2020,   2
+Mongolia,496,Country/Area,906,2015-2020,   18
+Republic of Korea,410,Country/Area,906,2015-2020,   2
+Brunei Darussalam,96,Country/Area,920,2015-2020,   8
+Cambodia,116,Country/Area,920,2015-2020,   24
+Indonesia,360,Country/Area,920,2015-2020,   19
+Lao People's Democratic Republic,418,Country/Area,920,2015-2020,   39
+Malaysia,458,Country/Area,920,2015-2020,   6
+Myanmar,104,Country/Area,920,2015-2020,   38
+Philippines,608,Country/Area,920,2015-2020,   20
+Singapore,702,Country/Area,920,2015-2020,   2
+Thailand,764,Country/Area,920,2015-2020,   8
+Timor-Leste,626,Country/Area,920,2015-2020,   37
+Viet Nam,704,Country/Area,920,2015-2020,   17
+Antigua and Barbuda,28,Country/Area,915,2015-2020,   5
+Aruba,533,Country/Area,915,2015-2020,   14
+Bahamas,44,Country/Area,915,2015-2020,   6
+Barbados,52,Country/Area,915,2015-2020,   10
+Cuba,192,Country/Area,915,2015-2020,   4
+Curaçao,531,Country/Area,915,2015-2020,   9
+Dominican Republic,214,Country/Area,915,2015-2020,   26
+Grenada,308,Country/Area,915,2015-2020,   15
+Guadeloupe,312,Country/Area,915,2015-2020,   5
+Haiti,332,Country/Area,915,2015-2020,   54
+Jamaica,388,Country/Area,915,2015-2020,   12
+Martinique,474,Country/Area,915,2015-2020,   6
+Puerto Rico,630,Country/Area,915,2015-2020,   5
+Saint Lucia,662,Country/Area,915,2015-2020,   12
+Saint Vincent and the Grenadines,670,Country/Area,915,2015-2020,   15
+Trinidad and Tobago,780,Country/Area,915,2015-2020,   22
+United States Virgin Islands,850,Country/Area,915,2015-2020,   8
+Belize,84,Country/Area,916,2015-2020,   13
+Costa Rica,188,Country/Area,916,2015-2020,   7
+El Salvador,222,Country/Area,916,2015-2020,   15
+Guatemala,320,Country/Area,916,2015-2020,   21
+Honduras,340,Country/Area,916,2015-2020,   15
+Mexico,484,Country/Area,916,2015-2020,   14
+Nicaragua,558,Country/Area,916,2015-2020,   17
+Panama,591,Country/Area,916,2015-2020,   14
+Argentina,32,Country/Area,931,2015-2020,   10
+Bolivia (Plurinational State of),68,Country/Area,931,2015-2020,   30
+Brazil,76,Country/Area,931,2015-2020,   13
+Chile,152,Country/Area,931,2015-2020,   7
+Colombia,170,Country/Area,931,2015-2020,   13
+Ecuador,218,Country/Area,931,2015-2020,   14
+French Guiana,254,Country/Area,931,2015-2020,   9
+Guyana,328,Country/Area,931,2015-2020,   27
+Paraguay,600,Country/Area,931,2015-2020,   19
+Peru,604,Country/Area,931,2015-2020,   13
+Suriname,740,Country/Area,931,2015-2020,   17
+Uruguay,858,Country/Area,931,2015-2020,   9
+Venezuela (Bolivarian Republic of),862,Country/Area,931,2015-2020,   26
+Australia,36,Country/Area,927,2015-2020,   3
+New Zealand,554,Country/Area,927,2015-2020,   4
+Fiji,242,Country/Area,928,2015-2020,   20
+New Caledonia,540,Country/Area,928,2015-2020,   12
+Papua New Guinea,598,Country/Area,928,2015-2020,   42
+Solomon Islands,90,Country/Area,928,2015-2020,   15
+Vanuatu,548,Country/Area,928,2015-2020,   22
+Guam,316,Country/Area,954,2015-2020,   9
+Kiribati,296,Country/Area,954,2015-2020,   43
+Micronesia (Fed. States of),583,Country/Area,954,2015-2020,   23
+French Polynesia,258,Country/Area,957,2015-2020,   7
+Samoa,882,Country/Area,957,2015-2020,   13
+Tonga,776,Country/Area,957,2015-2020,   13
+Belarus,112,Country/Area,923,2015-2020,   3
+Bulgaria,100,Country/Area,923,2015-2020,   6
+Czechia,203,Country/Area,923,2015-2020,   2
+Hungary,348,Country/Area,923,2015-2020,   4
+Poland,616,Country/Area,923,2015-2020,   3
+Republic of Moldova,498,Country/Area,923,2015-2020,   12
+Romania,642,Country/Area,923,2015-2020,   7
+Russian Federation,643,Country/Area,923,2015-2020,   6
+Slovakia,703,Country/Area,923,2015-2020,   5
+Ukraine,804,Country/Area,923,2015-2020,   7
+Channel Islands,830,Country/Area,924,2015-2020,   6
+Denmark,208,Country/Area,924,2015-2020,   3
+Estonia,233,Country/Area,924,2015-2020,   2
+Finland,246,Country/Area,924,2015-2020,   2
+Iceland,352,Country/Area,924,2015-2020,   1
+Ireland,372,Country/Area,924,2015-2020,   3
+Latvia,428,Country/Area,924,2015-2020,   3
+Lithuania,440,Country/Area,924,2015-2020,   4
+Norway,578,Country/Area,924,2015-2020,   2
+Sweden,752,Country/Area,924,2015-2020,   2
+United Kingdom,826,Country/Area,924,2015-2020,   4
+Albania,8,Country/Area,925,2015-2020,   8
+Bosnia and Herzegovina,70,Country/Area,925,2015-2020,   6
+Croatia,191,Country/Area,925,2015-2020,   4
+Greece,300,Country/Area,925,2015-2020,   3
+Italy,380,Country/Area,925,2015-2020,   3
+Malta,470,Country/Area,925,2015-2020,   5
+Montenegro,499,Country/Area,925,2015-2020,   3
+North Macedonia,807,Country/Area,925,2015-2020,   11
+Portugal,620,Country/Area,925,2015-2020,   3
+Serbia,688,Country/Area,925,2015-2020,   5
+Slovenia,705,Country/Area,925,2015-2020,   2
+Spain,724,Country/Area,925,2015-2020,   2
+Austria,40,Country/Area,926,2015-2020,   3
+Belgium,56,Country/Area,926,2015-2020,   3
+France,250,Country/Area,926,2015-2020,   3
+Germany,276,Country/Area,926,2015-2020,   3
+Luxembourg,442,Country/Area,926,2015-2020,   3
+Netherlands,528,Country/Area,926,2015-2020,   3
+Switzerland,756,Country/Area,926,2015-2020,   3
+Canada,124,Country/Area,918,2015-2020,   5
+United States of America,840,Country/Area,918,2015-2020,   6
