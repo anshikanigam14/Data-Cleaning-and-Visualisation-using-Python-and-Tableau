@@ -29,10 +29,10 @@ The merged file thus obtained can be used for statistical analysis and data visu
 1. Created an animated viz using Avg Total fertility, Avg Life expectancy and Total population for all countries.
 
 
-![Test Image 1](1.png)
+![Viz_1](https://raw.githubusercontent.com/anshikanigam14/Data-Cleaning-and-Visualisation-using-Python-and-Tableau/master/1.PNG)
 
 
 2. Created a world map showing variation of Avg Infant Mortality Rates for all countries.
 
 
-![Test Image 2](2.png)
+![Viz_2](https://raw.githubusercontent.com/anshikanigam14/Data-Cleaning-and-Visualisation-using-Python-and-Tableau/master/2.PNG)
